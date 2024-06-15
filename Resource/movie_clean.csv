@@ -1,0 +1,461 @@
+Rank,Title,Duration (min),Rating,Director,Cast,Release Date,Production Cost,Worldwide Gross,Opening Weekend,MPAA,Genre
+0,Avengers: Endgame,181.0,8.4,Anthony Russo,"Joe Russo, Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",2019-04-23,400000000,2797800564,357115007.0,PG-13,Action
+1,Pirates of the Caribbean: On Stranger Tides,137.0,6.6,Rob Marshall,"Johnny Depp, Penélope Cruz, Ian McShane, Geoffrey Rush",2011-05-20,379000000,1045713802,90151958.0,PG-13,Adventure
+2,Avengers: Age of Ultron,141.0,7.3,Joss Whedon,"Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",2015-04-22,365000000,1395316979,191271109.0,PG-13,Action
+4,Avengers: Infinity War,149.0,8.4,Anthony Russo,"Joe Russo, Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans",2018-04-25,300000000,2048359754,257698183.0,PG-13,Action
+6,Justice League,120.0,6.1,Zack Snyder,"Ben Affleck, Gal Gadot, Jason Momoa, Ezra Miller",2017-11-13,300000000,655945209,93842239.0,PG-13,Action
+7,Spectre,148.0,6.8,Sam Mendes,"Daniel Craig, Christoph Waltz, Léa Seydoux, Ralph Fiennes",2015-10-06,300000000,879500760,70403148.0,PG-13,Action
+10,Solo: A Star Wars Story,135.0,6.9,Ron Howard,"Alden Ehrenreich, Woody Harrelson, Emilia Clarke, Donald Glover",2018-05-23,275000000,393151347,84420489.0,PG-13,Adventure
+11,John Carter,132.0,6.6,Andrew Stanton,"Taylor Kitsch, Lynn Collins, Willem Dafoe, Samantha Morton",2012-03-07,263700000,282778100,30180188.0,PG-13,Adventure
+12,Batman v Superman: Dawn of Justice,151.0,6.5,Zack Snyder,"Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg",2016-03-23,263000000,872395091,166007347.0,PG-13,Action
+14,The Lion King,88.0,8.5,Roger Allers,"Rob Minkoff, Matthew Broderick, Jeremy Irons, James Earl Jones, Whoopi Goldberg",2019-07-11,260000000,1647778651,191770759.0,PG,Adventure
+15,The Lion King,118.0,6.8,Jon Favreau,"Donald Glover, Beyoncé, Seth Rogen, Chiwetel Ejiofor",2019-07-11,260000000,1647778651,191770759.0,PG,Adventure
+16,Tangled,100.0,7.7,Nathan Greno,"Byron Howard, Mandy Moore, Zachary Levi, Donna Murphy, Ron Perlman",2010-11-24,260000000,583777242,48767052.0,PG,Musical
+17,Spider-Man 3,139.0,6.3,Sam Raimi,"Tobey Maguire, Kirsten Dunst, Topher Grace, Thomas Haden Church",2007-05-04,258000000,894860230,151116516.0,PG-13,Adventure
+18,Captain America: Civil War,147.0,7.8,Anthony Russo,"Joe Russo, Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan",2016-04-22,250000000,1151918521,179139142.0,PG-13,Action
+19,Thor: Love and Thunder,118.0,6.2,Taika Waititi,"Chris Hemsworth, Natalie Portman, Christian Bale, Tessa Thompson",2022-07-01,250000000,745453552,144165107.0,PG-13,Action
+20,Harry Potter and the Half-Blood Prince,153.0,7.6,David Yates,"Daniel Radcliffe, Emma Watson, Rupert Grint, Michael Gambon",2009-07-15,250000000,929411069,77835727.0,PG,Adventure
+21,The Hobbit: The Desolation of Smaug,161.0,7.8,Peter Jackson,"Ian McKellen, Martin Freeman, Richard Armitage, Ken Stott",2013-12-12,250000000,959358436,73645197.0,PG-13,Adventure
+22,The Hobbit: The Battle of the Five Armies,144.0,7.4,Peter Jackson,"Ian McKellen, Martin Freeman, Richard Armitage, Cate Blanchett",2014-12-10,250000000,940389558,54724334.0,PG-13,Adventure
+23,The Fate of the Furious,136.0,6.6,F. Gary Gray,"Vin Diesel, Jason Statham, Dwayne Johnson, Michelle Rodriguez",2017-04-07,250000000,1236703796,98786705.0,PG-13,Action
+24,No Time to Die,163.0,7.3,Cary Joji Fukunaga,"Daniel Craig, Ana de Armas, Rami Malek, Léa Seydoux",2021-09-29,250000000,760008036,55225007.0,PG-13,Action
+25,Avatar,162.0,7.9,James Cameron,"Sam Worthington, Zoe Saldana, Sigourney Weaver, Michelle Rodriguez",2009-12-17,237000000,2910370905,77025481.0,PG-13,Action
+26,Superman Returns,154.0,6.1,Bryan Singer,"Brandon Routh, Kevin Spacey, Kate Bosworth, James Marsden",2006-06-28,232000000,391081192,52535096.0,PG-13,Adventure
+27,The Dark Knight Rises,164.0,8.4,Christopher Nolan,"Christian Bale, Tom Hardy, Anne Hathaway, Gary Oldman",2012-07-19,230000000,1082228107,160887295.0,PG-13,Action
+28,Pirates of the Caribbean: Dead Men Tell No Tales,129.0,6.5,Joachim Rønning,"Espen Sandberg, Johnny Depp, Geoffrey Rush, Javier Bardem, Orlando Bloom",2017-05-23,230000000,794861794,62983253.0,PG-13,Adventure
+29,Quantum of Solace,106.0,6.5,Marc Forster,"Daniel Craig, Olga Kurylenko, Mathieu Amalric, Judi Dench",2008-11-14,230000000,591692078,67528882.0,PG-13,Action
+30,The Avengers,143.0,8.0,Joss Whedon,"Robert Downey Jr., Chris Evans, Scarlett Johansson, Jeremy Renner",2012-04-25,225000000,1515100211,207438708.0,PG-13,Action
+31,The Avengers,89.0,3.8,Jeremiah S. Chechik,"Ralph Fiennes, Uma Thurman, Sean Connery, Patrick Macnee",2012-04-25,225000000,1515100211,207438708.0,PG-13,Action
+33,Man of Steel,143.0,7.1,Zack Snyder,"Henry Cavill, Amy Adams, Michael Shannon, Diane Lane",2013-06-14,225000000,667999518,116619362.0,PG-13,Action
+34,The Chronicles of Narnia: Prince Caspian,150.0,6.5,Andrew Adamson,"Ben Barnes, Skandar Keynes, Georgie Henley, William Moseley",2008-05-16,225000000,417341288,55034805.0,PG,Adventure
+35,The Lone Ranger,150.0,6.4,Gore Verbinski,"Johnny Depp, Armie Hammer, William Fichtner, Tom Wilkinson",2013-07-02,225000000,260002115,29210849.0,PG-13,Western
+36,The Amazing Spider-Man,136.0,6.9,Marc Webb,"Andrew Garfield, Emma Stone, Rhys Ifans, Irrfan Khan",2012-06-27,220000000,757890267,62004688.0,PG-13,Adventure
+37,Battleship,131.0,5.8,Peter Berg,"Alexander Skarsgård, Brooklyn Decker, Liam Neeson, Rihanna",2012-04-11,220000000,313477717,25534825.0,PG-13,Action
+38,Transformers: The Last Knight,154.0,5.2,Michael Bay,"Mark Wahlberg, Anthony Hopkins, Josh Duhamel, Laura Haddock",2017-06-20,217000000,602893340,44680073.0,PG-13,Action
+39,Jurassic World,124.0,6.9,Colin Trevorrow,"Chris Pratt, Bryce Dallas Howard, Ty Simpkins, Judy Greer",2015-06-09,215000000,1669979967,208806270.0,PG-13,Action
+41,Transformers: Revenge of the Fallen,149.0,6.0,Michael Bay,"Shia LaBeouf, Megan Fox, Josh Duhamel, Tyrese Gibson",2009-06-24,210000000,836519699,108966307.0,PG-13,Action
+42,Transformers: Age of Extinction,165.0,5.6,Michael Bay,"Mark Wahlberg, Nicola Peltz Beckham, Jack Reynor, Stanley Tucci",2014-06-25,210000000,1104054072,100038390.0,PG-13,Action
+43,X-Men: The Last Stand,104.0,6.6,Brett Ratner,"Patrick Stewart, Hugh Jackman, Halle Berry, Famke Janssen",2006-05-26,210000000,459260946,102750665.0,PG-13,Action
+44,Robin Hood,140.0,6.6,Ridley Scott,"Russell Crowe, Cate Blanchett, Matthew Macfadyen, Max von Sydow",2010-05-14,210000000,322459006,36063385.0,PG-13,Action
+45,Robin Hood,116.0,5.3,Otto Bathurst,"Taron Egerton, Jamie Foxx, Ben Mendelsohn, Eve Hewson",2010-05-14,210000000,322459006,36063385.0,PG-13,Action
+46,Robin Hood,83.0,7.5,Wolfgang Reitherman,"David Hand, Brian Bedford, Phil Harris, Roger Miller, Peter Ustinov",2010-05-14,210000000,322459006,36063385.0,PG-13,Action
+47,King Kong,187.0,7.2,Peter Jackson,"Naomi Watts, Jack Black, Adrien Brody, Thomas Kretschmann",2005-12-14,207000000,550517357,50130145.0,PG-13,Adventure
+48,King Kong,134.0,6.0,John Guillermin,"Jeff Bridges, Charles Grodin, Jessica Lange, John Randolph",2005-12-14,207000000,550517357,50130145.0,PG-13,Adventure
+49,King Kong,100.0,7.9,Merian C. Cooper,"Ernest B. Schoedsack, Fay Wray, Robert Armstrong, Bruce Cabot, Frank Reicher",2005-12-14,207000000,550517357,50130145.0,PG-13,Adventure
+50,The Golden Compass,113.0,6.1,Chris Weitz,"Nicole Kidman, Daniel Craig, Dakota Blue Richards, Ben Walker",2007-12-07,205000000,367262558,25783232.0,PG-13,Adventure
+51,Tenet,150.0,7.3,Christopher Nolan,"John David Washington, Robert Pattinson, Elizabeth Debicki, Juhan Ulfsak",2020-08-26,205000000,362450957,20001852.0,PG-13,Action
+52,Spider-Man: No Way Home,148.0,8.2,Jon Watts,"Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon",2021-12-14,200000000,1912775610,260138569.0,PG-13,Action
+53,Black Panther,134.0,7.3,Ryan Coogler,"Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira",2018-02-13,200000000,1336494321,202003951.0,PG-13,Action
+54,Titanic,194.0,7.9,James Cameron,"Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates",1997-12-18,200000000,2207986545,28638131.0,PG-13,Drama
+55,Incredibles 2,118.0,7.5,Brad Bird,"Craig T. Nelson, Holly Hunter, Sarah Vowell, Huck Milner",2018-06-15,200000000,1242805359,182687905.0,PG,Adventure
+57,Finding Dory,97.0,7.2,Andrew Stanton,"Angus MacLane, Ellen DeGeneres, Albert Brooks, Ed O'Neill, Kaitlin Olson",2016-06-16,200000000,1025006125,135060273.0,PG,Adventure
+58,Toy Story 4,100.0,7.7,Josh Cooley,"Tom Hanks, Tim Allen, Annie Potts, Tony Hale",2019-06-20,200000000,1073080329,120908065.0,G,Adventure
+59,Toy Story 3,103.0,8.3,Lee Unkrich,"Tom Hanks, Tim Allen, Joan Cusack, Ned Beatty",2010-06-18,200000000,1068879522,110307189.0,G,Adventure
+60,Doctor Strange in the Multiverse of Madness,126.0,6.9,Sam Raimi,"Benedict Cumberbatch, Elizabeth Olsen, Chiwetel Ejiofor, Benedict Wong",2022-05-04,200000000,952224986,187420998.0,PG-13,Action
+63,Spider-Man 2,127.0,7.5,Sam Raimi,"Tobey Maguire, Kirsten Dunst, Alfred Molina, James Franco",2004-06-30,200000000,794697557,88156227.0,PG-13,Adventure
+64,The Batman,176.0,7.8,Matt Reeves,"Robert Pattinson, Zoë Kravitz, Jeffrey Wright, Colin Farrell",2022-03-01,200000000,767820302,134008624.0,PG-13,Action
+65,Alice in Wonderland,108.0,6.4,Tim Burton,"Mia Wasikowska, Johnny Depp, Helena Bonham Carter, Anne Hathaway",2010-03-04,200000000,1025491110,116101023.0,PG,Adventure
+66,Alice in Wonderland,75.0,7.3,Clyde Geronimi,"Wilfred Jackson, Hamilton Luske, Jack Kinney, Kathryn Beaumont, Ed Wynn, Richard Haydn, Sterling Holloway",2010-03-04,200000000,1025491110,116101023.0,PG,Adventure
+67,Skyfall,143.0,7.8,Sam Mendes,"Daniel Craig, Javier Bardem, Naomie Harris, Judi Dench",2012-10-26,200000000,1110526981,88364714.0,PG-13,Action
+68,The Hobbit: An Unexpected Journey,169.0,7.8,Peter Jackson,"Martin Freeman, Ian McKellen, Richard Armitage, Andy Serkis",2012-12-11,200000000,1014938545,84617303.0,PG-13,Adventure
+69,Monsters University,104.0,7.2,Dan Scanlon,"Billy Crystal, John Goodman, Steve Buscemi, Helen Mirren",2013-06-21,200000000,743455810,82429469.0,G,Adventure
+70,Oz the Great and Powerful,130.0,6.3,Sam Raimi,"James Franco, Michelle Williams, Rachel Weisz, Mila Kunis",2013-03-08,200000000,490359051,79110453.0,PG,Adventure
+71,X-Men: Days of Future Past,132.0,7.9,Bryan Singer,"Patrick Stewart, Ian McKellen, Hugh Jackman, James McAvoy",2014-05-21,200000000,747862775,90823660.0,PG-13,Action
+72,The Amazing Spider-Man 2,142.0,6.6,Marc Webb,"Andrew Garfield, Emma Stone, Jamie Foxx, Paul Giamatti",2014-04-16,200000000,708996336,91608337.0,PG-13,Action
+73,Cars 2,106.0,6.2,John Lasseter,"Bradford Lewis, Owen Wilson, Larry the Cable Guy, Michael Caine, Emily Mortimer",2011-06-23,200000000,560155383,66135507.0,G,Adventure
+74,Black Widow,134.0,6.7,Cate Shortland,"Scarlett Johansson, Florence Pugh, David Harbour, Rachel Weisz",2021-07-07,200000000,379751655,80366312.0,PG-13,Action
+75,Fast & Furious Presents: Hobbs & Shaw,137.0,6.5,David Leitch,"Dwayne Johnson, Jason Statham, Idris Elba, Vanessa Kirby",2019-07-31,200000000,760381706,60038950.0,PG-13,Action
+77,Tron: Legacy,125.0,6.8,Joseph Kosinski,"Jeff Bridges, Garrett Hedlund, Olivia Wilde, Bruce Boxleitner",2010-12-17,200000000,399866199,44026211.0,PG,Adventure
+78,2012,158.0,5.8,Roland Emmerich,"John Cusack, Thandiwe Newton, Chiwetel Ejiofor, Amanda Peet",2009-11-12,200000000,757677748,65237614.0,PG-13,Action
+79,Eternals,156.0,6.3,Chloé Zhao,"Gemma Chan, Richard Madden, Angelina Jolie, Salma Hayek",2021-11-03,200000000,402064929,71297219.0,PG-13,Action
+80,Fantastic Beasts: The Crimes of Grindelwald,134.0,6.5,David Yates,"Eddie Redmayne, Katherine Waterston, Dan Fogler, Johnny Depp",2018-11-14,200000000,648455339,62163104.0,PG-13,Adventure
+81,Terminator Salvation,115.0,6.5,McG,"Christian Bale, Sam Worthington, Anton Yelchin, Moon Bloodgood",2009-05-21,200000000,365491792,42558390.0,PG-13,Action
+82,Lightyear,105.0,6.1,Angus MacLane,"Chris Evans, Keke Palmer, Peter Sohn, Taika Waititi",2022-06-15,200000000,218571346,50577961.0,PG,Adventure
+83,Jungle Cruise,127.0,6.6,Jaume Collet-Serra,"Dwayne Johnson, Emily Blunt, Edgar Ramírez, Jack Whitehall",2021-07-28,200000000,210384144,35018731.0,PG-13,Adventure
+84,Green Lantern,114.0,5.5,Martin Campbell,"Ryan Reynolds, Blake Lively, Peter Sarsgaard, Mark Strong",2011-06-17,200000000,219535492,53174303.0,PG-13,Action
+85,Fantastic Beasts: The Secrets of Dumbledore,142.0,6.2,David Yates,"Eddie Redmayne, Jude Law, Ezra Miller, Dan Fogler",2022-04-06,200000000,404560146,42151256.0,PG-13,Adventure
+88,Onward,102.0,7.4,Dan Scanlon,"Tom Holland, Chris Pratt, Julia Louis-Dreyfus, Octavia Spencer",2020-02-28,200000000,133317030,39119861.0,PG,Adventure
+89,Wonder Woman 1984,151.0,5.4,Patty Jenkins,"Gal Gadot, Chris Pine, Kristen Wiig, Pedro Pascal",2020-12-16,200000000,166360232,16701957.0,PG-13,Action
+94,Transformers: Dark of the Moon,154.0,6.2,Michael Bay,"Shia LaBeouf, Rosie Huntington-Whiteley, Tyrese Gibson, Josh Duhamel",2011-06-29,195000000,1123794079,97852865.0,PG-13,Action
+95,The Mummy,124.0,7.1,Stephen Sommers,"Brendan Fraser, Rachel Weisz, John Hannah, Arnold Vosloo",2017-06-02,195000000,409953905,31668375.0,PG-13,Adventure
+96,The Mummy,110.0,5.4,Alex Kurtzman,"Tom Cruise, Sofia Boutella, Annabelle Wallis, Russell Crowe",2017-06-02,195000000,409953905,31668375.0,PG-13,Adventure
+97,The Mummy,73.0,7.0,Karl Freund,"Boris Karloff, Zita Johann, David Manners, Arthur Byron",2017-06-02,195000000,409953905,31668375.0,PG-13,Adventure
+98,The Mummy,86.0,6.6,Terence Fisher,"Peter Cushing, Christopher Lee, Yvonne Furneaux, Eddie Byrne",2017-06-02,195000000,409953905,31668375.0,PG-13,Adventure
+99,Jack the Giant Slayer,114.0,6.3,Bryan Singer,"Nicholas Hoult, Stanley Tucci, Ewan McGregor, Bill Nighy",2013-02-27,195000000,197687603,27202226.0,PG-13,Adventure
+101,Star Trek Into Darkness,132.0,7.7,J.J. Abrams,"Chris Pine, Zachary Quinto, Zoe Saldana, Benedict Cumberbatch",2013-05-16,190000000,467381584,70165559.0,PG-13,Adventure
+102,World War Z,116.0,7.0,Marc Forster,"Brad Pitt, Mireille Enos, Daniella Kertesz, James Badge Dale",2013-06-19,190000000,531861650,66411834.0,PG-13,Action
+103,The Great Gatsby,143.0,7.2,Baz Luhrmann,"Leonardo DiCaprio, Carey Mulligan, Joel Edgerton, Tobey Maguire",2013-05-10,190000000,353640419,50085184.0,PG-13,Drama
+104,The Great Gatsby,144.0,6.4,Jack Clayton,"Robert Redford, Mia Farrow, Bruce Dern, Karen Black",2013-05-10,190000000,353640419,50085184.0,PG-13,Drama
+106,Pacific Rim,131.0,6.9,Guillermo del Toro,"Idris Elba, Charlie Hunnam, Rinko Kikuchi, Charlie Day",2013-07-11,190000000,411002906,37285325.0,PG-13,Action
+107,The Matrix Resurrections,148.0,5.7,Lana Wachowski,"Keanu Reeves, Carrie-Anne Moss, Yahya Abdul-Mateen II, Jonathan Groff",2021-12-16,190000000,156467817,10749011.0,R,Action
+108,The Good Dinosaur,93.0,6.7,Peter Sohn,"Jeffrey Wright, Frances McDormand, Maleah Nipay-Padilla, Ryan Teeple",2015-11-25,187500000,333771037,39155217.0,PG,Adventure
+109,Iron Man,126.0,7.9,Jon Favreau,"Robert Downey Jr., Gwyneth Paltrow, Terrence Howard, Jeff Bridges",2008-05-02,186000000,585171547,102118668.0,PG-13,Adventure
+110,The Dark Knight,152.0,9.0,Christopher Nolan,"Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",2008-07-11,185000000,998615789,158411483.0,PG-13,Action
+111,Indiana Jones and the Kingdom of the Crystal Skull,122.0,6.2,Steven Spielberg,"Harrison Ford, Cate Blanchett, Shia LaBeouf, Karen Allen",2008-05-22,185000000,786635413,100137835.0,PG-13,Adventure
+112,Brave,93.0,7.1,Mark Andrews,"Brenda Chapman, Steve Purcell, Kelly Macdonald, Billy Connolly, Emma Thompson, Julie Walters",2012-06-21,185000000,554606532,66323594.0,PG,Adventure
+113,Kong: Skull Island,118.0,6.7,Jordan Vogt-Roberts,"Tom Hiddleston, Samuel L. Jackson, Brie Larson, John C. Reilly",2017-02-23,185000000,561072059,61025472.0,PG-13,Adventure
+114,Star Trek Beyond,122.0,7.0,Justin Lin,"Chris Pine, Zachary Quinto, Karl Urban, Zoe Saldana",2016-07-21,185000000,335673708,59253211.0,PG-13,Adventure
+115,Maleficent: Mistress of Evil,119.0,6.6,Joachim Rønning,"Angelina Jolie, Elle Fanning, Harris Dickinson, Michelle Pfeiffer",2019-10-17,185000000,489346495,36948713.0,PG,Adventure
+116,Blade Runner 2049,164.0,8.0,Denis Villeneuve,"Harrison Ford, Ryan Gosling, Ana de Armas, Dave Bautista",2017-09-29,185000000,258829058,32753122.0,R,Thriller/Suspense
+117,Terminator: Dark Fate,128.0,6.2,Tim Miller,"Linda Hamilton, Arnold Schwarzenegger, Mackenzie Davis, Natalia Reyes",2019-10-25,185000000,250372367,29033832.0,R,Action
+118,The Suicide Squad,132.0,7.2,James Gunn,"Margot Robbie, Idris Elba, John Cena, Joel Kinnaman",2021-07-28,185000000,167120232,26205415.0,R,Action
+119,Aladdin,128.0,6.9,Guy Ritchie,"Will Smith, Mena Massoud, Naomi Scott, Marwan Kenzari",2019-05-22,182000000,1046649706,91500929.0,PG,Adventure
+120,Aladdin,90.0,8.0,Ron Clements,"John Musker, Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman",2019-05-22,182000000,1046649706,91500929.0,PG,Adventure
+121,Thor: Ragnarok,130.0,7.9,Taika Waititi,"Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Mark Ruffalo",2017-10-25,180000000,850482778,122744989.0,PG-13,Action
+123,Maleficent,97.0,6.9,Robert Stromberg,"Angelina Jolie, Elle Fanning, Sharlto Copley, Lesley Manville",2014-05-28,180000000,758536735,69431298.0,PG,Adventure
+124,Fantastic Beasts and Where to Find Them,132.0,7.2,David Yates,"Eddie Redmayne, Katherine Waterston, Alison Sudol, Dan Fogler",2016-11-14,180000000,811724385,74403387.0,PG-13,Adventure
+126,Rush Hour 3,91.0,6.2,Brett Ratner,"Jackie Chan, Chris Tucker, Max von Sydow, Hiroyuki Sanada",2007-08-10,180000000,256585882,49100158.0,PG-13,Action
+127,The Legend of Tarzan,110.0,6.2,David Yates,"Alexander Skarsgård, Rory J Saper, Christian Stevens, Christoph Waltz",2016-06-27,180000000,348902025,38527856.0,PG-13,Adventure
+128,Hugo,126.0,7.5,Martin Scorsese,"Asa Butterfield, Chloë Grace Moretz, Christopher Lee, Ben Kingsley",2011-11-23,180000000,180047784,11364505.0,PG,Adventure
+129,Valerian and the City of a Thousand Planets,136.0,6.4,Luc Besson,"Dane DeHaan, Cara Delevingne, Clive Owen, Rihanna",2017-07-20,180000000,215098356,17007624.0,PG-13,Adventure
+130,Jupiter Ascending,127.0,5.3,Lana Wachowski,"Lilly Wachowski, Channing Tatum, Mila Kunis, Eddie Redmayne, Sean Bean",2015-02-06,179000000,181982519,18372372.0,PG-13,Action
+132,X-Men: Apocalypse,144.0,6.9,Bryan Singer,"James McAvoy, Michael Fassbender, Jennifer Lawrence, Nicholas Hoult",2016-05-18,178000000,542537546,65769562.0,PG-13,Action
+133,The Meg,113.0,5.7,Jon Turteltaub,"Jason Statham, Bingbing Li, Rainn Wilson, Cliff Curtis",2018-08-09,178000000,527370715,45402195.0,PG-13,Action
+134,Edge of Tomorrow,113.0,7.9,Doug Liman,"Tom Cruise, Emily Blunt, Bill Paxton, Brendan Gleeson",2014-05-28,178000000,367028980,28760246.0,PG-13,Action
+135,Captain Marvel,123.0,6.8,Anna Boden,"Ryan Fleck, Brie Larson, Samuel L. Jackson, Ben Mendelsohn, Jude Law",2019-03-06,175000000,1129727388,153433423.0,PG-13,Action
+136,The Jungle Book,106.0,7.4,Jon Favreau,"Neel Sethi, Bill Murray, Ben Kingsley, Idris Elba",2016-04-07,175000000,953554418,103261464.0,PG,Adventure
+137,The Jungle Book,78.0,7.6,Wolfgang Reitherman,"Phil Harris, Sebastian Cabot, Louis Prima, Bruce Reitherman",2016-04-07,175000000,953554418,103261464.0,PG,Adventure
+138,The Jungle Book,111.0,6.0,Stephen Sommers,"Jason Scott Lee, Cary Elwes, Lena Headey, Sam Neill",2016-04-07,175000000,953554418,103261464.0,PG,Adventure
+139,Inside Out,95.0,8.1,Pete Docter,"Ronnie Del Carmen, Amy Poehler, Bill Hader, Lewis Black, Mindy Kaling",2015-06-12,175000000,853003563,90440272.0,PG,Adventure
+140,Spider-Man: Homecoming,133.0,7.4,Jon Watts,"Tom Holland, Michael Keaton, Robert Downey Jr., Marisa Tomei",2017-07-05,175000000,878346440,117027503.0,PG-13,Action
+141,Suicide Squad,123.0,5.9,David Ayer,"Will Smith, Jared Leto, Margot Robbie, Viola Davis",2016-08-02,175000000,745744980,133682248.0,PG-13,Action
+142,Up,96.0,8.3,Pete Docter,"Bob Peterson, Edward Asner, Jordan Nagai, John Ratzenberger, Christopher Plummer",2009-05-28,175000000,731463377,68108790.0,PG,Adventure
+143,Coco,105.0,8.4,Lee Unkrich,"Adrian Molina, Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach",2017-10-27,175000000,797666425,50802605.0,PG,Musical
+145,Monsters vs. Aliens,94.0,6.4,Rob Letterman,"Conrad Vernon, Reese Witherspoon, Rainn Wilson, Stephen Colbert, Seth Rogen",2009-03-27,175000000,381687380,59321095.0,PG,Adventure
+146,Cars 3,102.0,6.7,Brian Fee,"Owen Wilson, Cristela Alonzo, Chris Cooper, Nathan Fillion",2017-06-16,175000000,383541369,53688680.0,G,Adventure
+147,G.I. Joe: The Rise of Cobra,118.0,5.7,Stephen Sommers,"Dennis Quaid, Channing Tatum, Marlon Wayans, Adewale Akinnuoye-Agbaje",2009-08-07,175000000,302469017,54713046.0,PG-13,Action
+148,Wild Wild West,106.0,4.9,Barry Sonnenfeld,"Will Smith, Kevin Kline, Kenneth Branagh, Salma Hayek",1999-06-30,175000000,221229335,27687484.0,PG-13,Adventure
+149,The Mummy: Tomb of the Dragon Emperor,112.0,5.2,Rob Cohen,"Brendan Fraser, Jet Li, Maria Bello, Michelle Yeoh",2008-08-01,175000000,405760225,40457770.0,PG-13,Adventure
+150,Evan Almighty,96.0,5.4,Tom Shadyac,"Steve Carell, Morgan Freeman, Lauren Graham, Johnny Simmons",2007-06-22,175000000,174131329,31192615.0,PG,Comedy
+151,Waterworld,135.0,6.3,Kevin Reynolds,"Kevin Costner, Jeanne Tripplehorn, Dennis Hopper, Tina Majorino",1995-07-28,175000000,264246220,21171780.0,PG-13,Action
+152,Dolittle,101.0,5.6,Stephen Gaghan,"Robert Downey Jr., Antonio Banderas, Michael Sheen, Jim Broadbent",2020-01-08,175000000,251410631,21844045.0,PG,Adventure
+153,King Arthur: Legend of the Sword,126.0,6.7,Guy Ritchie,"Charlie Hunnam, Astrid Bergès-Frisbey, Jude Law, Djimon Hounsou",2017-05-11,175000000,139630336,15371270.0,PG-13,Adventure
+154,47 Ronin,128.0,6.2,Carl Rinsch,"Keanu Reeves, Hiroyuki Sanada, Kô Shibasaki, Tadanobu Asano",2013-12-06,175000000,151716815,9910310.0,PG-13,Action
+156,Top Gun: Maverick,130.0,8.2,Joseph Kosinski,"Tom Cruise, Jennifer Connelly, Miles Teller, Val Kilmer",2022-05-20,170000000,1478823595,126707459.0,PG-13,Action
+157,Jurassic World: Fallen Kingdom,128.0,6.1,J.A. Bayona,"Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith",2018-06-06,170000000,1308334005,148024610.0,PG-13,Action
+158,Guardians of the Galaxy,121.0,8.0,James Gunn,"Chris Pratt, Vin Diesel, Bradley Cooper, Zoe Saldana",2014-07-31,170000000,770882395,94320883.0,PG-13,Action
+159,Iron Man 2,124.0,6.9,Jon Favreau,"Robert Downey Jr., Mickey Rourke, Gwyneth Paltrow, Don Cheadle",2010-05-07,170000000,621156389,128122480.0,PG-13,Action
+160,Captain America: The Winter Soldier,136.0,7.7,Anthony Russo,"Joe Russo, Chris Evans, Samuel L. Jackson, Scarlett Johansson, Robert Redford",2014-03-28,170000000,714401889,95023721.0,PG-13,Action
+161,Dawn of the Planet of the Apes,130.0,7.6,Matt Reeves,"Gary Oldman, Keri Russell, Andy Serkis, Kodi Smit-McPhee",2014-07-09,170000000,710644566,72611427.0,PG-13,Adventure
+162,The Polar Express,100.0,6.6,Robert Zemeckis,"Tom Hanks, Chris Coppola, Michael Jeter, Leslie Zemeckis",2004-11-10,170000000,312719437,23325035.0,G,Adventure
+163,Snow White and the Huntsman,127.0,6.1,Rupert Sanders,"Kristen Stewart, Chris Hemsworth, Charlize Theron, Sam Claflin",2012-05-30,170000000,401021746,56217700.0,PG-13,Adventure
+164,Terminator 3: Rise of the Machines,109.0,6.3,Jonathan Mostow,"Arnold Schwarzenegger, Nick Stahl, Kristanna Loken, Claire Danes",2003-07-01,170000000,433058296,44041440.0,R,Action
+165,Van Helsing,131.0,6.1,Stephen Sommers,"Hugh Jackman, Kate Beckinsale, Richard Roxburgh, Shuler Hensley",2004-05-05,170000000,300150546,51748040.0,PG-13,Action
+166,Dumbo,64.0,7.2,Samuel Armstrong,"Norman Ferguson, Wilfred Jackson, Jack Kinney, Bill Roberts, Ben Sharpsteen, John Elliotte, Sterling Holloway, Edward Brophy, Herman Bing, Billy Bletcher",2019-03-27,170000000,353166307,45990748.0,PG,Adventure
+167,Dumbo,112.0,6.3,Tim Burton,"Colin Farrell, Michael Keaton, Danny DeVito, Eva Green",2019-03-27,170000000,353166307,45990748.0,PG,Adventure
+168,Godzilla: King of the Monsters,132.0,6.0,Michael Dougherty,"Kyle Chandler, Vera Farmiga, Millie Bobby Brown, Ken Watanabe",2019-05-29,170000000,383299915,47776293.0,PG-13,Action
+169,Tomorrowland,130.0,6.4,Brad Bird,"George Clooney, Britt Robertson, Hugh Laurie, Raffey Cassidy",2015-05-20,170000000,206627518,33028165.0,PG,Adventure
+170,Alita: Battle Angel,122.0,7.3,Robert Rodriguez,"Rosa Salazar, Christoph Waltz, Jennifer Connelly, Mahershala Ali",2019-02-01,170000000,401900040,28525613.0,PG-13,Action
+171,Alice Through the Looking Glass,113.0,6.2,James Bobin,"Mia Wasikowska, Johnny Depp, Helena Bonham Carter, Anne Hathaway",2016-05-20,170000000,276928112,26858726.0,PG,Adventure
+173,Shrek Forever After,93.0,6.3,Mike Mitchell,"Mike Myers, Cameron Diaz, Eddie Murphy, Antonio Banderas",2010-05-21,165000000,756244673,70838207.0,PG,Adventure
+174,Doctor Strange,115.0,7.5,Scott Derrickson,"Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams, Benedict Wong",2016-10-24,165000000,676354481,85058311.0,PG-13,Action
+175,Big Hero 6,102.0,7.8,Don Hall,"Chris Williams, Ryan Potter, Scott Adsit, Jamie Chung, T.J. Miller",2014-10-25,165000000,648415024,56215889.0,PG,Adventure
+176,How to Train Your Dragon,98.0,8.1,Dean DeBlois,"Chris Sanders, Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse, Craig Ferguson",2010-03-26,165000000,494870992,43732319.0,PG,Adventure
+178,Wreck-It Ralph,101.0,7.7,Rich Moore,"John C. Reilly, Jack McBrayer, Jane Lynch, Sarah Silverman",2012-11-01,165000000,496511521,49038712.0,PG,Adventure
+179,Interstellar,169.0,8.7,Christopher Nolan,"Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy",2014-11-05,165000000,649133873,47510360.0,PG-13,Adventure
+180,Dune,155.0,8.0,Denis Villeneuve,"Timothée Chalamet, Rebecca Ferguson, Zendaya, Oscar Isaac",2021-09-15,165000000,397720527,41011174.0,PG-13,Action
+181,Dune,137.0,6.3,David Lynch,"Kyle MacLachlan, Virginia Madsen, Francesca Annis, Leonardo Cimino",2021-09-15,165000000,397720527,41011174.0,PG-13,Action
+182,Independence Day: Resurgence,120.0,5.2,Roland Emmerich,"Liam Hemsworth, Jeff Goldblum, Bill Pullman, Maika Monroe",2016-06-22,165000000,384169424,41039944.0,PG-13,Action
+184,Beauty and the Beast,129.0,7.1,Bill Condon,"Emma Watson, Dan Stevens, Luke Evans, Josh Gad",2017-03-16,160000000,1270042058,174750616.0,PG,Musical
+185,Beauty and the Beast,84.0,8.0,Gary Trousdale,"Kirk Wise, Paige O'Hara, Robby Benson, Jesse Corti, Rex Everhart",2017-03-16,160000000,1270042058,174750616.0,PG,Musical
+186,Beauty and the Beast,90.0,3.1,David Lister,"Estella Warren, Rhett Giles, Victor Parascos, Vanessa Gray",2017-03-16,160000000,1270042058,174750616.0,PG,Musical
+188,Aquaman,143.0,6.8,James Wan,"Jason Momoa, Amber Heard, Willem Dafoe, Patrick Wilson",2018-12-06,160000000,1143758700,67873522.0,PG-13,Action
+189,Shrek the Third,93.0,6.1,Chris Miller,"Raman Hui, Mike Myers, Cameron Diaz, Eddie Murphy, Antonio Banderas",2007-05-17,160000000,807330936,121629270.0,PG,Adventure
+190,Inception,148.0,8.8,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Ken Watanabe",2010-07-16,160000000,728582465,62785337.0,PG-13,Thriller/Suspense
+191,The Hunger Games: Mockingjay - Part 2,137.0,6.5,Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson",2015-11-18,160000000,648986787,102665981.0,PG-13,Thriller/Suspense
+193,Godzilla,123.0,6.4,Gareth Edwards,"Aaron Taylor-Johnson, Elizabeth Olsen, Bryan Cranston, Ken Watanabe",2014-05-14,160000000,529076069,93188384.0,PG-13,Action
+194,Godzilla,139.0,5.4,Roland Emmerich,"Matthew Broderick, Jean Reno, Maria Pitillo, Hank Azaria",2014-05-14,160000000,529076069,93188384.0,PG-13,Action
+196,The Curious Case of Benjamin Button,166.0,7.8,David Fincher,"Brad Pitt, Cate Blanchett, Tilda Swinton, Julia Ormond",2008-12-25,160000000,329631958,26853816.0,PG-13,Drama
+197,The Sorcerer's Apprentice,109.0,6.1,Jon Turteltaub,"Nicolas Cage, Jay Baruchel, Alfred Molina, Teresa Palmer",2010-07-14,160000000,217986320,17619622.0,PG,Adventure
+198,Poseidon,98.0,5.7,Wolfgang Petersen,"Richard Dreyfuss, Kurt Russell, Emmy Rossum, Josh Lucas",2006-05-12,160000000,181674817,22155410.0,PG-13,Adventure
+199,Warcraft,123.0,6.7,Duncan Jones,"Travis Fimmel, Paula Patton, Ben Foster, Dominic Cooper",2016-05-25,160000000,438899824,24166110.0,PG-13,Action
+201,Deepwater Horizon,107.0,7.1,Peter Berg,"Mark Wahlberg, Kurt Russell, Douglas M. Griffin, James DuMont",2016-09-29,156000000,122359309,20223544.0,PG-13,Thriller/Suspense
+203,Godzilla vs. Kong,113.0,6.3,Adam Wingard,"Alexander Skarsgård, Millie Bobby Brown, Rebecca Hall, Brian Tyree Henry",2021-03-25,155000000,468064628,32200000.0,PG-13,Action
+206,Alexander,175.0,5.6,Oliver Stone,"Colin Farrell, Anthony Hopkins, Rosario Dawson, Angelina Jolie",2004-11-24,155000000,167297191,13687087.0,R,Action
+207,War for the Planet of the Apes,140.0,7.4,Matt Reeves,"Andy Serkis, Woody Harrelson, Steve Zahn, Karin Konoval",2017-07-14,152000000,489592267,56262929.0,PG-13,Action
+208,Pearl Harbor,183.0,6.2,Michael Bay,"Ben Affleck, Kate Beckinsale, Josh Hartnett, William Lee Scott",2001-05-25,151500000,449239853,59078912.0,PG-13,Action
+209,Transformers,144.0,7.0,Michael Bay,"Shia LaBeouf, Megan Fox, Josh Duhamel, Tyrese Gibson",2007-07-02,151000000,708272592,70502384.0,PG-13,Action
+210,Frozen II,103.0,6.8,Chris Buck,"Jennifer Lee, Kristen Bell, Idina Menzel, Josh Gad, Jonathan Groff",2019-11-20,150000000,1445182280,130263358.0,PG,Adventure
+211,Wonder Woman,141.0,7.3,Patty Jenkins,"Gal Gadot, Chris Pine, Robin Wright, Lucy Davis",2017-05-29,150000000,818058221,103251471.0,PG-13,Action
+212,Frozen,102.0,7.4,Chris Buck,"Jennifer Lee, Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad",2013-11-22,150000000,1261788407,243390.0,PG,Musical
+213,Frozen,93.0,6.2,Adam Green,"Shawn Ashmore, Emma Bell, Kevin Zegers, Ed Ackerman",2013-11-22,150000000,1261788407,243390.0,PG,Musical
+214,Zootopia,108.0,8.0,Byron Howard,"Rich Moore, Jared Bush, Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate",2016-02-10,150000000,1004629935,75063401.0,PG,Adventure
+215,Harry Potter and the Order of the Phoenix,138.0,7.5,David Yates,"Daniel Radcliffe, Emma Watson, Rupert Grint, Brendan Gleeson",2007-07-11,150000000,939619849,77108414.0,PG-13,Adventure
+216,Harry Potter and the Goblet of Fire,157.0,7.7,Mike Newell,"Daniel Radcliffe, Emma Watson, Rupert Grint, Eric Sykes",2005-11-18,150000000,886746240,102685961.0,PG-13,Adventure
+217,The Matrix Reloaded,138.0,7.2,Lana Wachowski,"Lilly Wachowski, Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving",2003-05-15,150000000,738576929,91774413.0,R,Action
+219,Moana,107.0,7.6,Ron Clements,"John Musker, Don Hall, Chris Williams, Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison",2016-01-27,150000000,631617146,56631401.0,PG,Musical
+221,Hancock,92.0,6.4,Peter Berg,"Will Smith, Charlize Theron, Jason Bateman, Jae Head",2008-07-01,150000000,624234272,62603879.0,PG-13,Action
+222,Shang-Chi and the Legend of the Ten Rings,132.0,7.4,Destin Daniel Cretton,"Simu Liu, Awkwafina, Tony Leung Chiu-wai, Ben Kingsley",2021-09-01,150000000,432243292,75388688.0,PG-13,Action
+223,Charlie and the Chocolate Factory,115.0,6.7,Tim Burton,"Johnny Depp, Freddie Highmore, David Kelly, Helena Bonham Carter",2005-07-15,150000000,475825484,56178450.0,PG,Adventure
+224,Ratatouille,111.0,8.1,Brad Bird,"Jan Pinkava, Brad Garrett, Lou Romano, Patton Oswalt, Ian Holm",2007-06-29,150000000,626549695,47027395.0,G,Adventure
+225,Thor: The Dark World,112.0,6.8,Alan Taylor,"Chris Hemsworth, Natalie Portman, Tom Hiddleston, Stellan Skarsgård",2013-10-30,150000000,644602516,85737841.0,PG-13,Action
+226,Batman Begins,140.0,8.2,Christopher Nolan,"Christian Bale, Michael Caine, Ken Watanabe, Liam Neeson",2005-06-15,150000000,358858124,48745440.0,PG-13,Action
+228,Dunkirk,106.0,7.8,Christopher Nolan,"Fionn Whitehead, Barry Keoghan, Mark Rylance, Tom Hardy",2017-07-18,150000000,518058826,50513488.0,PG-13,Action
+229,Thor,115.0,7.0,Kenneth Branagh,"Chris Hemsworth, Anthony Hopkins, Natalie Portman, Tom Hiddleston",2011-04-29,150000000,449326618,65723338.0,PG-13,Action
+230,Madagascar: Escape 2 Africa,89.0,6.6,Eric Darnell,"Tom McGrath, Ben Stiller, Chris Rock, David Schwimmer, Jada Pinkett Smith",2008-11-07,150000000,599680774,63106589.0,PG,Adventure
+231,X-Men Origins: Wolverine,107.0,6.5,Gavin Hood,"Hugh Jackman, Liev Schreiber, Ryan Reynolds, Danny Huston",2009-05-01,150000000,374825760,85058003.0,PG-13,Action
+232,Night at the Museum: Battle of the Smithsonian,105.0,6.0,Shawn Levy,"Ben Stiller, Owen Wilson, Amy Adams, Hank Azaria",2009-05-22,150000000,402231063,54173286.0,PG,Adventure
+233,Kung Fu Panda 2,90.0,7.3,Jennifer Yuh Nelson,"Jack Black, Angelina Jolie, Jackie Chan, Dustin Hoffman",2011-05-26,150000000,664837547,47656302.0,PG,Adventure
+234,Mad Max: Fury Road,120.0,8.1,George Miller,"Tom Hardy, Charlize Theron, Nicholas Hoult, Zoë Kravitz",2015-05-14,150000000,367457874,45428128.0,R,Action
+235,Pokémon: Detective Pikachu,104.0,6.5,Rob Letterman,"Ryan Reynolds, Justice Smith, Kathryn Newton, Bill Nighy",2019-05-03,150000000,431344168,54365242.0,PG,Adventure
+236,The Matrix Revolutions,129.0,6.7,Lana Wachowski,"Lilly Wachowski, Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving",2003-11-05,150000000,427300260,48475154.0,R,Action
+237,Ready Player One,140.0,7.4,Steven Spielberg,"Tye Sheridan, Olivia Cooke, Ben Mendelsohn, Lena Waithe",2018-03-20,150000000,579055653,41769050.0,PG-13,Adventure
+238,Chicken Little,81.0,5.7,Mark Dindal,"Zach Braff, Joan Cusack, Garry Marshall, Don Knotts",2005-11-04,150000000,310043823,40049778.0,G,Adventure
+239,Mission: Impossible III,126.0,6.9,J.J. Abrams,"Tom Cruise, Michelle Monaghan, Ving Rhames, Philip Seymour Hoffman",2006-05-05,150000000,399387745,47743273.0,PG-13,Action
+240,Angels & Demons,138.0,6.7,Ron Howard,"Tom Hanks, Ewan McGregor, Ayelet Zurer, Stellan Skarsgård",2009-05-15,150000000,490875846,46204168.0,PG-13,Thriller/Suspense
+241,Troy,163.0,7.3,Wolfgang Petersen,"Brad Pitt, Eric Bana, Orlando Bloom, Julian Glover",2004-05-13,150000000,483152040,46865412.0,R,Action
+242,The Last Airbender,103.0,4.0,M. Night Shyamalan,"Noah Ringer, Nicola Peltz Beckham, Jackson Rathbone, Dev Patel",2010-07-01,150000000,319713881,40325019.0,PG,Adventure
+243,Bee Movie,91.0,6.1,Simon J. Smith,"Steve Hickner, Jerry Seinfeld, Renée Zellweger, Matthew Broderick, Patrick Warburton",2007-11-02,150000000,287594577,38021044.0,PG,Adventure
+244,G-Force,88.0,5.1,Hoyt Yeatman,"Will Arnett, Penélope Cruz, Zach Galifianakis, Bill Nighy",2009-07-24,150000000,292817841,31706934.0,PG,Adventure
+245,Bolt,96.0,6.8,Byron Howard,"Chris Williams, John Travolta, Miley Cyrus, Susie Essman, Mark Walton",2008-11-21,150000000,328015029,26223128.0,PG,Adventure
+246,Encanto,102.0,7.2,Jared Bush,"Byron Howard, Charise Castro Smith, Stephanie Beatriz, María Cecilia Botero, John Leguizamo, Mauro Castillo",2021-11-24,150000000,230873149,27206494.0,PG,Adventure
+247,Wrath of the Titans,99.0,5.7,Jonathan Liebesman,"Sam Worthington, Liam Neeson, Rosamund Pike, Ralph Fiennes",2012-03-28,150000000,305270083,33457188.0,PG-13,Adventure
+248,Beowulf,115.0,6.3,Robert Zemeckis,"Ray Winstone, Crispin Glover, Angelina Jolie, Robin Wright",2007-11-16,150000000,195080579,27515871.0,PG-13,Adventure
+249,Dark Shadows,113.0,6.2,Tim Burton,"Johnny Depp, Michelle Pfeiffer, Eva Green, Helena Bonham Carter",2012-05-09,150000000,238202668,29685274.0,PG-13,Black Comedy
+250,White House Down,131.0,6.3,Roland Emmerich,"Channing Tatum, Jamie Foxx, Maggie Gyllenhaal, Jason Clarke",2013-06-28,150000000,205440387,24852258.0,PG-13,Thriller/Suspense
+251,Space Jam: A New Legacy,115.0,4.5,Malcolm D. Lee,"LeBron James, Don Cheadle, Cedric Joe, Khris Davis",2021-07-14,150000000,144003749,31053362.0,PG,Comedy
+252,The Wolfman,103.0,5.8,Joe Johnston,"Benicio Del Toro, Anthony Hopkins, Emily Blunt, Simon Merrells",2010-02-12,150000000,142634358,31479235.0,R,Horror
+253,The Great Wall,103.0,5.9,Yimou Zhang,"Matt Damon, Tian Jing, Willem Dafoe, Andy Lau",2016-12-15,150000000,334486852,18469620.0,PG-13,Action
+254,Pan,111.0,5.7,Joe Wright,"Levi Miller, Hugh Jackman, Garrett Hedlund, Rooney Mara",2015-09-25,150000000,151525973,15315435.0,PG,Adventure
+255,Mars Needs Moms,88.0,5.4,Simon Wells,"Seth Green, Joan Cusack, Dan Fogler, Elisabeth Harnois",2011-03-11,150000000,39549758,6914488.0,PG,Adventure
+256,Moonfall,130.0,5.1,Roland Emmerich,"Halle Berry, Patrick Wilson, John Bradley, Charlie Plummer",2022-02-03,150000000,59049032,9868997.0,PG-13,Action
+259,Flushed Away,85.0,6.6,David Bowers,"Sam Fell, Hugh Jackman, Kate Winslet, Ian McKellen, Jean Reno",2006-11-03,149000000,179357126,18814323.0,PG,Adventure
+260,Madagascar 3: Europe's Most Wanted,95.0,6.8,Eric Darnell,"Tom McGrath, Conrad Vernon, Ben Stiller, Jada Pinkett Smith, Chris Rock, David Schwimmer",2012-06-08,145000000,746921271,60316738.0,PG,Adventure
+262,How to Train Your Dragon 2,102.0,7.8,Dean DeBlois,"Jay Baruchel, Cate Blanchett, Gerard Butler, Craig Ferguson",2014-06-05,145000000,614586270,49451322.0,PG,Adventure
+263,Tarzan,88.0,7.3,Chris Buck,"Kevin Lima, Tony Goldwyn, Minnie Driver, Brian Blessed, Glenn Close",1999-06-16,145000000,448191819,34221968.0,G,Adventure
+264,Mr. Peabody & Sherman,92.0,6.8,Rob Minkoff,"Ty Burrell, Max Charles, Stephen Colbert, Leslie Mann",2014-02-20,145000000,269806430,32207057.0,PG,Adventure
+265,Rise of the Guardians,97.0,7.2,Peter Ramsey,"Hugh Jackman, Alec Baldwin, Isla Fisher, Chris Pine",2012-11-20,145000000,306900902,23773465.0,PG,Adventure
+266,Sahara,124.0,6.1,Breck Eisner,"Matthew McConaughey, Penélope Cruz, Steve Zahn, Mark Aspinall",2005-04-08,145000000,121645390,18068372.0,PG-13,Adventure
+267,Sahara,111.0,4.9,Andrew V. McLaglen,"John Guillermin, Brooke Shields, Lambert Wilson, John Rhys-Davies, Horst Buchholz",2005-04-08,145000000,121645390,18068372.0,PG-13,Adventure
+268,Ghostbusters,105.0,7.8,Ivan Reitman,"Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis",2016-07-13,144000000,229008658,46018755.0,PG-13,Comedy
+269,Ghostbusters,117.0,6.8,Paul Feig,"Melissa McCarthy, Kristen Wiig, Kate McKinnon, Leslie Jones",2016-07-13,144000000,229008658,46018755.0,PG-13,Comedy
+270,Die Another Day,133.0,6.1,Lee Tamahori,"Pierce Brosnan, Halle Berry, Rosamund Pike, Toby Stephens",2002-11-22,142000000,431942139,47072040.0,PG-13,Action
+272,Star Trek,127.0,7.9,J.J. Abrams,"Chris Pine, Zachary Quinto, Simon Pegg, Leonard Nimoy",2009-05-08,140000000,386839614,79204289.0,PG-13,Adventure
+273,Armageddon,151.0,6.7,Michael Bay,"Bruce Willis, Billy Bob Thornton, Ben Affleck, Liv Tyler",1998-07-01,140000000,554600000,36089972.0,PG-13,Adventure
+275,Captain America: The First Avenger,124.0,6.9,Joe Johnston,"Chris Evans, Hugo Weaving, Samuel L. Jackson, Hayley Atwell",2011-07-22,140000000,370569776,65058524.0,PG-13,Action
+276,Kung Fu Panda 3,95.0,7.1,Alessandro Carloni,"Jennifer Yuh Nelson, Jack Black, Bryan Cranston, Dustin Hoffman, Angelina Jolie",2016-01-23,140000000,521170825,41282042.0,PG,Adventure
+277,Lethal Weapon 4,127.0,6.6,Richard Donner,"Mel Gibson, Danny Glover, Joe Pesci, Rene Russo",1998-07-10,140000000,285400000,34048124.0,R,Action
+278,G.I. Joe: Retaliation,110.0,5.7,Jon M. Chu,"Dwayne Johnson, Channing Tatum, Adrianne Palicki, Lee Byung-hun",2013-03-27,140000000,375740705,40501814.0,PG-13,Action
+279,The Last Samurai,154.0,7.8,Edward Zwick,"Tom Cruise, Ken Watanabe, Billy Connolly, William Atherton",2003-12-05,140000000,456810575,24271354.0,R,Action
+281,Exodus: Gods and Kings,150.0,6.0,Ridley Scott,"Christian Bale, Joel Edgerton, Ben Kingsley, Sigourney Weaver",2014-12-05,140000000,268314513,24115934.0,PG-13,Drama
+282,The BFG,117.0,6.3,Steven Spielberg,"Mark Rylance, Ruby Barnhill, Penelope Wilton, Jemaine Clement",2016-06-30,140000000,199646680,18775350.0,PG,Adventure
+283,Gemini Man,117.0,5.7,Ang Lee,"Will Smith, Mary Elizabeth Winstead, Clive Owen, Benedict Wong",2019-10-03,140000000,166623705,20552372.0,PG-13,Action
+284,Gods of Egypt,127.0,5.4,Alex Proyas,"Brenton Thwaites, Nikolaj Coster-Waldau, Gerard Butler, Chadwick Boseman",2016-02-24,140000000,138836756,14123903.0,PG-13,Adventure
+286,Spider-Man,121.0,7.4,Sam Raimi,"Tobey Maguire, Kirsten Dunst, Willem Dafoe, James Franco",2002-05-03,139000000,821706375,114844116.0,PG-13,Adventure
+287,Watchmen,162.0,7.6,Zack Snyder,"Jackie Earle Haley, Patrick Wilson, Carla Gugino, Malin Akerman",2009-03-06,138000000,186976250,55214334.0,R,Action
+288,Stealth,121.0,5.1,Rob Cohen,"Josh Lucas, Jessica Biel, Jamie Foxx, Sam Shepard",2005-07-29,138000000,76416746,13251545.0,PG-13,Action
+289,The Incredible Hulk,112.0,6.6,Louis Leterrier,"Edward Norton, Liv Tyler, Tim Roth, William Hurt",2008-06-13,137500000,265573859,55414050.0,PG-13,Adventure
+290,Hulk,138.0,5.6,Ang Lee,"Eric Bana, Jennifer Connelly, Sam Elliott, Josh Lucas",2003-06-20,137000000,245031679,62128420.0,PG-13,Action
+291,Final Fantasy: The Spirits Within,106.0,6.4,Hironobu Sakaguchi,"Motonori Sakakibara, Alec Baldwin, Steve Buscemi, Ming-Na Wen, Ving Rhames",2001-07-11,137000000,85131830,11408853.0,PG-13,Adventure
+293,The Croods,98.0,7.1,Kirk DeMicco,"Chris Sanders, Nicolas Cage, Ryan Reynolds, Emma Stone, Catherine Keener",2013-03-15,135000000,573068425,43639736.0,PG,Adventure
+294,The Revenant,156.0,8.0,Alejandro G. Iñárritu,"Leonardo DiCaprio, Tom Hardy, Will Poulter, Domhnall Gleeson",2015-12-25,135000000,532938302,474560.0,R,Adventure
+296,Rango,107.0,7.3,Gore Verbinski,"Johnny Depp, Isla Fisher, Timothy Olyphant, Abigail Breslin",2011-03-04,135000000,245724600,38079323.0,PG,Adventure
+297,Master and Commander: The Far Side of the World,138.0,7.5,Peter Weir,"Russell Crowe, Paul Bettany, Billy Boyd, James D'Arcy",2003-11-14,135000000,212912137,25105990.0,PG-13,Adventure
+298,Turbo,96.0,6.4,David Soren,"Ryan Reynolds, Paul Giamatti, Maya Rudolph, Samuel L. Jackson",2013-07-17,135000000,286896578,21312625.0,PG,Adventure
+300,Teenage Mutant Ninja Turtles: Out of the Shadows,112.0,5.9,Dave Green,"Megan Fox, Will Arnett, Tyler Perry, Laura Linney",2016-06-02,135000000,245328374,35316382.0,PG-13,Adventure
+301,Happy Feet Two,117.0,5.8,George Miller,"Gary Eck, David Peers, Elijah Wood, Robin Williams, Pink, Carlos Alazraqui",2011-11-18,135000000,157956466,21237068.0,PG,Adventure
+302,Miami Vice,132.0,6.1,Michael Mann,"Colin Farrell, Jamie Foxx, Gong Li, Naomie Harris",2006-07-28,135000000,164920076,25723815.0,R,Action
+303,The Nutcracker and the Four Realms,99.0,5.6,Lasse Hallström,"Joe Johnston, Mackenzie Foy, Keira Knightley, Morgan Freeman, Helen Mirren",2018-10-31,132900000,170024300,20352491.0,PG,Adventure
+304,War of the Worlds,116.0,6.5,Steven Spielberg,"Tom Cruise, Dakota Fanning, Tim Robbins, Miranda Otto",2005-06-24,132000000,606836535,64878725.0,PG-13,Action
+305,Penguins of Madagascar,92.0,6.6,Eric Darnell,"Simon J. Smith, Tom McGrath, Chris Miller, Christopher Knights, Conrad Vernon",2014-11-26,132000000,366942531,25447444.0,PG,Adventure
+306,The Hunger Games: Catching Fire,146.0,7.5,Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Philip Seymour Hoffman",2013-11-15,130000000,864868047,158074286.0,PG-13,Adventure
+307,Harry Potter and the Prisoner of Azkaban,142.0,7.9,Alfonso Cuarón,"Daniel Radcliffe, Emma Watson, Rupert Grint, Richard Griffiths",2004-05-31,130000000,789592708,93687367.0,PG,Adventure
+308,The Bourne Ultimatum,115.0,8.0,Paul Greengrass,"Matt Damon, Edgar Ramírez, Joan Allen, Julia Stiles",2007-08-03,130000000,444043396,69283690.0,PG-13,Thriller/Suspense
+309,Ant-Man and the Wasp,118.0,7.0,Peyton Reed,"Paul Rudd, Evangeline Lilly, Michael Peña, Walton Goggins",2018-07-03,130000000,623144660,75812205.0,PG-13,Action
+310,Kung Fu Panda,92.0,7.6,Mark Osborne,"John Stevenson, Jack Black, Ian McShane, Angelina Jolie, Dustin Hoffman",2008-06-06,130000000,631910531,60239130.0,PG,Adventure
+311,Ant-Man,117.0,7.2,Peyton Reed,"Paul Rudd, Michael Douglas, Corey Stoll, Evangeline Lilly",2015-07-14,130000000,518858449,57225526.0,PG-13,Action
+312,Home,94.0,6.5,Tim Johnson,"Jim Parsons, Rihanna, Steve Martin, Jennifer Lopez",2015-03-19,130000000,385997896,52107731.0,PG,Adventure
+313,Mary Poppins Returns,130.0,6.7,Rob Marshall,"Emily Blunt, Lin-Manuel Miranda, Ben Whishaw, Emily Mortimer",2018-12-19,130000000,348901032,23523121.0,PG,Musical
+314,Puss in Boots,90.0,6.6,Chris Miller,"Antonio Banderas, Salma Hayek, Zach Galifianakis, Billy Bob Thornton",2011-10-28,130000000,554987477,34077439.0,PG,Adventure
+315,Megamind,95.0,7.3,Tom McGrath,"Will Ferrell, Jonah Hill, Brad Pitt, Tina Fey",2010-11-05,130000000,321887208,46016833.0,PG,Adventure
+316,Bad Boys II,147.0,6.6,Michael Bay,"Will Smith, Martin Lawrence, Gabrielle Union, Jordi Mollà",2003-07-18,130000000,273271982,46522560.0,R,Action
+317,Rio 2,101.0,6.3,Carlos Saldanha,"Jesse Eisenberg, Anne Hathaway, Jemaine Clement, Andy Garcia",2014-03-20,130000000,492846291,39327869.0,G,Adventure
+318,Salt,100.0,6.4,Phillip Noyce,"Angelina Jolie, Liev Schreiber, Chiwetel Ejiofor, Daniel Olbrychski",2010-07-23,130000000,290650494,36011243.0,PG-13,Thriller/Suspense
+319,Noah,138.0,5.8,Darren Aronofsky,"Russell Crowe, Jennifer Connelly, Anthony Hopkins, Emma Watson",2014-03-27,130000000,352831065,43720472.0,PG-13,Drama
+320,The Adventures of Tintin,107.0,7.3,Steven Spielberg,"Jamie Bell, Andy Serkis, Daniel Craig, Simon Pegg",2011-10-28,130000000,373993951,9720993.0,PG,Adventure
+321,After Earth,100.0,4.8,M. Night Shyamalan,"Jaden Smith, David Denman, Will Smith, Sophie Okonedo",2013-05-31,130000000,251499665,27520040.0,PG-13,Action
+322,Australia,165.0,6.6,Baz Luhrmann,"Nicole Kidman, Hugh Jackman, Shea Adams, Eddie Baroo",2008-11-26,130000000,215080810,14800723.0,PG-13,Drama
+323,R.I.P.D.,96.0,5.6,Robert Schwentke,"Ryan Reynolds, Jeff Bridges, Mary-Louise Parker, Kevin Bacon",2013-07-19,130000000,79076678,12691415.0,PG-13,Action
+324,How to Train Your Dragon: The Hidden World,104.0,7.4,Dean DeBlois,"Jay Baruchel, America Ferrera, F. Murray Abraham, Cate Blanchett",2019-01-03,129000000,521214533,55022245.0,PG,Adventure
+326,Dinosaur,82.0,6.4,Eric Leighton,"Ralph Zondag, D.B. Sweeney, Julianna Margulies, Samuel E. Wright, Alfre Woodard",2000-05-19,127500000,356148063,38854851.0,PG,Adventure
+327,Logan,137.0,8.1,James Mangold,"Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook",2017-02-23,127000000,614202315,88411916.0,R,Action
+328,Night at the Museum: Secret of the Tomb,98.0,6.2,Shawn Levy,"Ben Stiller, Robin Williams, Owen Wilson, Dick Van Dyke",2014-12-18,127000000,353756621,17100520.0,PG,Adventure
+330,The Hunger Games: Mockingjay - Part 1,123.0,6.6,Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson",2014-11-19,125000000,766575131,121897634.0,PG-13,Thriller/Suspense
+332,Jumanji: The Next Level,123.0,6.7,Jake Kasdan,"Dwayne Johnson, Jack Black, Kevin Hart, Karen Gillan",2019-12-04,125000000,798332900,59251543.0,PG-13,Adventure
+334,The Da Vinci Code,149.0,6.6,Ron Howard,"Tom Hanks, Audrey Tautou, Jean Reno, Ian McKellen",2006-05-19,125000000,767820459,77073388.0,PG-13,Thriller/Suspense
+336,Fast Five,130.0,7.3,Justin Lin,"Vin Diesel, Paul Walker, Dwayne Johnson, Jordana Brewster",2011-04-21,125000000,630163454,86198765.0,PG-13,Action
+337,Teenage Mutant Ninja Turtles,93.0,6.8,Steve Barron,"Judith Hoag, Elias Koteas, Josh Pais, David Forman",2014-08-08,125000000,485004754,65575105.0,PG-13,Adventure
+338,Teenage Mutant Ninja Turtles,101.0,5.8,Jonathan Liebesman,"Megan Fox, Will Arnett, William Fichtner, Noel Fisher",2014-08-08,125000000,485004754,65575105.0,PG-13,Adventure
+339,Sherlock Holmes: A Game of Shadows,129.0,7.4,Guy Ritchie,"Robert Downey Jr., Jude Law, Jared Harris, Rachel McAdams",2011-12-16,125000000,535663443,39637079.0,PG-13,Action
+340,The Day After Tomorrow,124.0,6.5,Roland Emmerich,"Dennis Quaid, Jake Gyllenhaal, Emmy Rossum, Dash Mihok",2004-05-27,125000000,555840117,68743584.0,PG-13,Adventure
+341,The Boss Baby,97.0,6.3,Tom McGrath,"Alec Baldwin, Steve Buscemi, Jimmy Kimmel, Lisa Kudrow",2017-03-17,125000000,527965936,50198902.0,PG,Adventure
+342,Clash of the Titans,106.0,5.8,Louis Leterrier,"Sam Worthington, Liam Neeson, Ralph Fiennes, Jason Flemyng",2010-04-01,125000000,493214888,61235105.0,PG-13,Action
+343,Clash of the Titans,118.0,6.9,Desmond Davis,"Laurence Olivier, Harry Hamlin, Claire Bloom, Maggie Smith",2010-04-01,125000000,493214888,61235105.0,PG-13,Action
+344,Trolls,92.0,6.4,Mike Mitchell,"Walt Dohrn, Anna Kendrick, Justin Timberlake, Zooey Deschanel, Christopher Mintz-Plasse",2016-10-12,125000000,343242613,46581142.0,PG,Adventure
+345,Godzilla,123.0,6.4,Gareth Edwards,"Aaron Taylor-Johnson, Elizabeth Olsen, Bryan Cranston, Ken Watanabe",1998-05-19,125000000,376000000,93188384.0,PG-13,Action
+346,Godzilla,139.0,5.4,Roland Emmerich,"Matthew Broderick, Jean Reno, Maria Pitillo, Hank Azaria",1998-05-19,125000000,376000000,93188384.0,PG-13,Action
+347,Prometheus,124.0,7.0,Ridley Scott,"Noomi Rapace, Logan Marshall-Green, Michael Fassbender, Charlize Theron",2012-05-30,125000000,402448265,51050101.0,R,Thriller/Suspense
+348,The Bourne Legacy,135.0,6.6,Tony Gilroy,"Jeremy Renner, Rachel Weisz, Edward Norton, Scott Glenn",2012-08-10,125000000,280355920,38142825.0,PG-13,Thriller/Suspense
+349,Batman & Robin,125.0,3.8,Joel Schumacher,"Arnold Schwarzenegger, George Clooney, Chris O'Donnell, Uma Thurman",1997-06-20,125000000,238317814,42872605.0,PG-13,Action
+350,Skyscraper,102.0,5.8,Rawson Marshall Thurber,"Dwayne Johnson, Neve Campbell, Chin Han, Roland Møller",2018-07-05,125000000,304868961,24905015.0,PG,Action
+351,The Call of the Wild,100.0,6.7,Chris Sanders,"Harrison Ford, Omar Sy, Cara Gee, Dan Stevens",2020-01-03,125000000,107360936,24791624.0,PG,Adventure
+352,Total Recall,113.0,7.5,Paul Verhoeven,"Arnold Schwarzenegger, Sharon Stone, Michael Ironside, Rachel Ticotin",2012-08-03,125000000,211856088,25577758.0,PG-13,Action
+353,Total Recall,118.0,6.2,Len Wiseman,"Colin Farrell, Bokeem Woodbine, Bryan Cranston, Kate Beckinsale",2012-08-03,125000000,211856088,25577758.0,PG-13,Action
+355,Monster Trucks,104.0,5.7,Chris Wedge,"Lucas Till, Jane Levy, Thomas Lennon, Barry Pepper",2016-12-29,125000000,61642798,10950705.0,PG-13,Adventure
+356,The 13th Warrior,102.0,6.6,John McTiernan,"Michael Crichton, Antonio Banderas, Diane Venora, Dennis Storhøi, Vladimir Kulich",1999-08-27,125000000,61698899,10267756.0,R,Action
+357,How the Grinch Stole Christmas,104.0,6.3,Ron Howard,"Jim Carrey, Taylor Momsen, Kelley, Jeffrey Tambor",2000-11-17,123000000,345445403,55820330.0,PG,Adventure
+359,The Perfect Storm,130.0,6.5,Wolfgang Petersen,"George Clooney, Mark Wahlberg, John C. Reilly, Diane Lane",2000-06-30,120000000,328711434,41325042.0,PG-13,Drama
+360,Jason Bourne,123.0,6.6,Paul Greengrass,"Matt Damon, Tommy Lee Jones, Alicia Vikander, Vincent Cassel",2016-07-20,120000000,416168316,59215365.0,PG-13,Action
+361,Uncharted,116.0,6.3,Ruben Fleischer,"Tom Holland, Mark Wahlberg, Antonio Banderas, Sophia Ali",2022-02-10,120000000,401748820,44010155.0,PG-13,Adventure
+363,Life of Pi,127.0,7.9,Ang Lee,"Suraj Sharma, Irrfan Khan, Adil Hussain, Tabu",2012-11-21,120000000,619310368,22451514.0,PG,Drama
+364,Ghost Rider,110.0,5.3,Mark Steven Johnson,"Nicolas Cage, Eva Mendes, Sam Elliott, Matt Long",2007-02-16,120000000,229545589,45388836.0,PG-13,Action
+365,Rampage,107.0,6.1,Brad Peyton,"Dwayne Johnson, Naomie Harris, Malin Akerman, Jeffrey Dean Morgan",2018-04-09,120000000,427947217,35753093.0,PG-13,Action
+366,Charlie's Angels: Full Throttle,106.0,4.9,McG,"Drew Barrymore, Lucy Liu, Cameron Diaz, Bernie Mac",2003-06-27,120000000,227163273,37634221.0,PG-13,Action
+367,Elysium,109.0,6.6,Neill Blomkamp,"Matt Damon, Jodie Foster, Sharlto Copley, Alice Braga",2013-08-09,120000000,286192091,29807393.0,R,Action
+368,Oblivion,124.0,7.0,Joseph Kosinski,"Tom Cruise, Morgan Freeman, Andrea Riseborough, Olga Kurylenko",2013-04-19,120000000,287916633,37054485.0,PG-13,Thriller/Suspense
+369,Power Rangers,124.0,5.9,Dean Israelite,"Dacre Montgomery, Naomi Scott, RJ Cyler, Ludi Lin",2017-03-24,120000000,142531552,40300288.0,PG-13,Action
+370,Stuart Little 2,77.0,5.5,Rob Minkoff,"Michael J. Fox, Geena Davis, Hugh Laurie, Jonathan Lipnicki",2002-07-19,120000000,166000000,15115152.0,PG,Adventure
+371,RoboCop,102.0,7.6,Paul Verhoeven,"Peter Weller, Nancy Allen, Dan O'Herlihy, Ronny Cox",2014-02-12,120000000,242981799,21681430.0,PG-13,Action
+372,RoboCop,117.0,6.1,José Padilha,"Joel Kinnaman, Gary Oldman, Michael Keaton, Abbie Cornish",2014-02-12,120000000,242981799,21681430.0,PG-13,Action
+373,The Chronicles of Riddick,119.0,6.6,David Twohy,"Vin Diesel, Judi Dench, Colm Feore, Thandiwe Newton",2004-06-11,120000000,107212751,24289165.0,PG-13,Adventure
+376,Speed Racer,135.0,6.1,Lana Wachowski,"Lilly Wachowski, Emile Hirsch, Matthew Fox, Christina Ricci, Nicholas Elia",2008-05-09,120000000,93394462,18561337.0,PG,Action
+377,The Island,136.0,6.8,Michael Bay,"Scarlett Johansson, Ewan McGregor, Djimon Hounsou, Steve Buscemi",2005-07-22,120000000,163018913,12409070.0,PG-13,Action
+378,The Island,93.0,4.8,Shaun Paul Piccinino,"Michael Jai White, Gillian White, Jackson Rathbone, Edoardo Costa",2005-07-22,120000000,163018913,12409070.0,PG-13,Action
+382,Knight and Day,109.0,6.3,James Mangold,"Tom Cruise, Cameron Diaz, Peter Sarsgaard, Jordi Mollà",2010-06-23,117000000,258751370,20139985.0,PG-13,Action
+384,Venom,112.0,6.6,Ruben Fleischer,"Tom Hardy, Michelle Williams, Riz Ahmed, Scott Haze",2018-10-02,116000000,856081053,80255756.0,PG-13,Action
+388,"Monsters, Inc.",92.0,8.1,Pete Docter,"David Silverman, Lee Unkrich, Billy Crystal, John Goodman, Mary Gibbs, Steve Buscemi",2001-11-02,115000000,560483719,62577067.0,G,Adventure
+389,The Wolverine,126.0,6.7,James Mangold,"Hugh Jackman, Will Yun Lee, Tao Okamoto, Rila Fukushima",2013-07-26,115000000,416456852,53113752.0,PG-13,Action
+392,Windtalkers,134.0,6.1,John Woo,"Nicolas Cage, Adam Beach, Peter Stormare, Noah Emmerich",2002-06-14,115000000,77628265,14520412.0,R,Action
+395,Gulliver's Travels,85.0,4.9,Rob Letterman,"Jack Black, Emily Blunt, Jason Segel, Amanda Peet",2010-12-24,112000000,232017848,6307691.0,PG,Adventure
+396,Ferdinand,108.0,6.7,Carlos Saldanha,"John Cena, Kate McKinnon, Bobby Cannavale, Jack Gore",2017-12-08,111000000,288510892,13401586.0,PG,Adventure
+397,Deadpool 2,119.0,7.6,David Leitch,"Ryan Reynolds, Josh Brolin, Morena Baccarin, Julian Dennison",2018-05-11,110000000,786362370,125507153.0,R,Action
+398,Gravity,91.0,7.7,Alfonso Cuarón,"Sandra Bullock, George Clooney, Ed Harris, Orto Ignatiussen",2013-10-03,110000000,688214291,55785112.0,PG-13,Thriller/Suspense
+399,Night at the Museum,108.0,6.5,Shawn Levy,"Ben Stiller, Carla Gugino, Ricky Gervais, Dick Van Dyke",2006-12-22,110000000,579446407,30433781.0,PG,Adventure
+402,San Andreas,114.0,6.1,Brad Peyton,"Dwayne Johnson, Carla Gugino, Alexandra Daddario, Colton Haynes",2015-05-27,110000000,456258539,54588173.0,PG-13,Adventure
+403,The Smurfs,103.0,5.4,Raja Gosnell,"Hank Azaria, Katy Perry, Jonathan Winters, Neil Patrick Harris",2011-07-29,110000000,563749323,35611637.0,PG,Adventure
+404,Live Free or Die Hard,128.0,7.1,Len Wiseman,"Bruce Willis, Justin Long, Timothy Olyphant, Maggie Q",2007-06-27,110000000,382288147,33369559.0,PG-13,Action
+406,Ocean's Twelve,125.0,6.5,Steven Soderbergh,"George Clooney, Brad Pitt, Julia Roberts, Catherine Zeta-Jones",2004-12-10,110000000,362989076,39153380.0,PG-13,Adventure
+407,Tomorrow Never Dies,119.0,6.5,Roger Spottiswoode,"Pierce Brosnan, Jonathan Pryce, Michelle Yeoh, Teri Hatcher",1997-12-19,110000000,339504276,25143007.0,PG-13,Action
+408,The Patriot,165.0,7.2,Roland Emmerich,"Mel Gibson, Heath Ledger, Joely Richardson, Jason Isaacs",2000-06-28,110000000,215300000,22413710.0,R,Drama
+409,300: Rise of an Empire,102.0,6.2,Noam Murro,"Sullivan Stapleton, Eva Green, Lena Headey, Hans Matheson",2014-03-07,110000000,330780051,45038460.0,R,Action
+410,The Aviator,170.0,7.5,Martin Scorsese,"Leonardo DiCaprio, Cate Blanchett, Kate Beckinsale, John C. Reilly",2004-12-17,110000000,208370892,858021.0,PG-13,Drama
+411,Passengers,116.0,7.0,Morten Tyldum,"Jennifer Lawrence, Chris Pratt, Michael Sheen, Laurence Fishburne",2016-12-21,110000000,302239672,14869736.0,PG-13,Thriller/Suspense
+412,Passengers,93.0,5.8,Rodrigo García,"Anne Hathaway, Patrick Wilson, David Morse, Andre Braugher",2016-12-21,110000000,302239672,14869736.0,PG-13,Thriller/Suspense
+413,The Green Hornet,119.0,5.8,Michel Gondry,"Seth Rogen, Jay Chou, Christoph Waltz, Cameron Diaz",2011-01-14,110000000,229155503,33526876.0,PG-13,Action
+415,Real Steel,127.0,7.1,Shawn Levy,"Hugh Jackman, Evangeline Lilly, Dakota Goyo, Anthony Mackie",2011-10-07,110000000,263880341,27319677.0,PG-13,Action
+416,Men in Black: International,114.0,5.6,F. Gary Gray,"Chris Hemsworth, Tessa Thompson, Kumail Nanjiani, Rebecca Ferguson",2019-06-12,110000000,253020464,30035838.0,PG-13,Adventure
+417,The A-Team,117.0,6.7,Joe Carnahan,"Liam Neeson, Bradley Cooper, Sharlto Copley, Jessica Biel",2010-06-11,110000000,177241171,25669455.0,PG-13,Action
+418,The Smurfs 2,105.0,5.3,Raja Gosnell,"Neil Patrick Harris, Jayma Mays, Katy Perry, Hank Azaria",2013-07-31,110000000,348547523,17548389.0,PG,Adventure
+420,The Taking of Pelham 123,106.0,6.4,Tony Scott,"Denzel Washington, John Travolta, Luis Guzmán, Victor Gojcaj",2009-06-12,110000000,152364370,23373102.0,R,Action
+421,Ender's Game,114.0,6.6,Gavin Hood,"Harrison Ford, Asa Butterfield, Hailee Steinfeld, Abigail Breslin",2013-10-25,110000000,127983283,27017351.0,PG-13,Adventure
+422,Home on the Range,76.0,5.4,Will Finn,"John Sanford, Judi Dench, Cuba Gooding Jr., Jennifer Tilly, Randy Quaid",2004-04-02,110000000,76482461,13880771.0,PG,Adventure
+423,Speed 2: Cruise Control,121.0,3.9,Jan de Bont,"Sandra Bullock, Jason Patric, Willem Dafoe, Temuera Morrison",1997-06-13,110000000,150468000,16158942.0,PG-13,Action
+424,Kingdom of Heaven,144.0,7.3,Ridley Scott,"Orlando Bloom, Eva Green, Liam Neeson, Martin Hancock",2005-05-06,110000000,218674938,19635996.0,R,Action
+425,Ghost in the Shell,107.0,6.3,Rupert Sanders,"Scarlett Johansson, Pilou Asbæk, Takeshi Kitano, Juliette Binoche",2017-03-23,110000000,167910690,18676033.0,PG-13,Action
+426,Around the World in 80 Days,120.0,5.9,Frank Coraci,"Jackie Chan, Steve Coogan, Jim Broadbent, Kathy Bates",2004-06-16,110000000,72004159,7576132.0,PG,Adventure
+428,Ali,157.0,6.7,Michael Mann,"Will Smith, Jamie Foxx, Jon Voight, Mario Van Peebles",2001-12-25,109000000,87683966,14710892.0,R,Drama
+429,The Martian,144.0,8.0,Ridley Scott,"Matt Damon, Jessica Chastain, Kristen Wiig, Kate Mara",2015-09-30,108000000,653609107,54308575.0,PG-13,Thriller/Suspense
+430,Allied,124.0,7.1,Robert Zemeckis,"Brad Pitt, Marion Cotillard, Jared Harris, Vincent Ebrahim",2016-11-20,106000000,119266661,12701743.0,R,Drama
+431,"I, Robot",115.0,7.1,Alex Proyas,"Will Smith, Bridget Moynahan, Bruce Greenwood, Alan Tudyk",2004-07-16,105000000,348629585,52179887.0,PG-13,Action
+432,Stuart Little,84.0,6.0,Rob Minkoff,"Michael J. Fox, Geena Davis, Hugh Laurie, Jonathan Lipnicki",1999-12-17,105000000,298815224,15018223.0,PG,Adventure
+433,The Princess and the Frog,97.0,7.2,Ron Clements,"John Musker, Anika Noni Rose, Keith David, Oprah Winfrey, Bruno Campos",2009-11-25,105000000,270997378,786190.0,G,Adventure
+435,Ice Age: Collision Course,94.0,5.7,Michael Thurmeier,"Galen T. Chu, Ray Romano, Denis Leary, John Leguizamo, Chris Wedge",2016-07-01,105000000,402156682,21373064.0,PG,Adventure
+436,Starship Troopers,129.0,7.3,Paul Verhoeven,"Casper Van Dien, Denise Richards, Dina Meyer, Jake Busey",1997-11-07,105000000,121100000,22058773.0,R,Action
+438,Kingsman: The Golden Circle,141.0,6.7,Matthew Vaughn,"Taron Egerton, Colin Firth, Mark Strong, Channing Tatum",2017-09-19,104000000,408803696,39023010.0,R,Action
+440,Gladiator,155.0,8.5,Ridley Scott,"Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed",2000-05-04,103000000,456435588,34819017.0,R,Action
+441,Gladiator,101.0,6.5,Rowdy Herrington,"James Marshall, Cuba Gooding Jr., Brian Dennehy, Richard Lexsee",2000-05-04,103000000,456435588,34819017.0,R,Action
+443,A Wrinkle in Time,109.0,4.3,Ava DuVernay,"Storm Reid, Oprah Winfrey, Reese Witherspoon, Mindy Kaling",2018-03-09,103000000,133214549,33123609.0,PG,Adventure
+444,Public Enemies,140.0,7.0,Michael Mann,"Christian Bale, Johnny Depp, Christian Stolte, Jason Clarke",2009-07-01,102500000,212282709,25271675.0,R,Drama
+445,Casino Royale,144.0,8.0,Martin Campbell,"Daniel Craig, Eva Green, Judi Dench, Jeffrey Wright",2006-11-17,102000000,594420283,40833156.0,PG-13,Action
+446,Casino Royale,131.0,5.0,Val Guest,"Ken Hughes, John Huston, Joseph McGrath, Robert Parrish, Richard Talmadge, David Niven, Peter Sellers, Ursula Andress, Orson Welles",2006-11-17,102000000,594420283,40833156.0,PG-13,Action
+447,Minority Report,145.0,7.6,Steven Spielberg,"Tom Cruise, Colin Farrell, Samantha Morton, Max von Sydow",2002-06-21,102000000,358824714,35677125.0,PG-13,Action
+448,Bumblebee,114.0,6.7,Travis Knight,"Hailee Steinfeld, Jorge Lendeborg Jr., John Cena, Jason Drucker",2018-12-13,102000000,465195589,21654047.0,PG-13,Adventure
+449,Cloud Atlas,172.0,7.4,Tom Tykwer,"Lana Wachowski, Lilly Wachowski, Tom Hanks, Halle Berry, Hugh Grant, Hugo Weaving",2012-10-26,102000000,130673154,9612247.0,R,Drama
+450,Harry Potter and the Chamber of Secrets,161.0,7.4,Chris Columbus,"Daniel Radcliffe, Rupert Grint, Emma Watson, Richard Harris",2002-11-15,100000000,875262553,88357488.0,PG,Adventure
+451,Terminator 2: Judgment Day,137.0,8.6,James Cameron,"Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick",1991-07-02,100000000,515376182,31765506.0,R,Action
+452,Batman Forever,121.0,5.4,Joel Schumacher,"Val Kilmer, Tommy Lee Jones, Jim Carrey, Nicole Kidman",1995-06-16,100000000,336529144,52784433.0,PG-13,Action
+453,Planet of the Apes,120.0,5.7,Tim Burton,"Mark Wahlberg, Helena Bonham Carter, Tim Roth, Michael Clarke Duncan",2001-07-27,100000000,362211740,68532960.0,PG-13,Adventure
+454,Planet of the Apes,112.0,8.0,Franklin J. Schaffner,"Charlton Heston, Roddy McDowall, Kim Hunter, Maurice Evans",2001-07-27,100000000,362211740,68532960.0,PG-13,Adventure
+455,National Treasure,131.0,6.9,Jon Turteltaub,"Nicolas Cage, Diane Kruger, Justin Bartha, Sean Bean",2004-11-19,100000000,331323410,35142554.0,PG,Adventure
+456,Django Unchained,165.0,8.5,Quentin Tarantino,"Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington",2012-12-25,100000000,449841566,30122888.0,R,Western
+457,1917,119.0,8.2,Sam Mendes,"Dean-Charles Chapman, George MacKay, Daniel Mays, Colin Firth",2019-12-25,100000000,370603379,576216.0,R,Thriller/Suspense
+458,Little Fockers,98.0,5.5,Paul Weitz,"Ben Stiller, Teri Polo, Robert De Niro, Owen Wilson",2010-12-22,100000000,310650574,30833665.0,PG-13,Comedy
+459,True Lies,141.0,7.3,James Cameron,"Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold, Bill Paxton",1994-07-15,100000000,365300000,25869770.0,R,Action
+460,American Gangster,157.0,7.8,Ridley Scott,"Denzel Washington, Russell Crowe, Chiwetel Ejiofor, Josh Brolin",2007-11-02,100000000,267985456,43565135.0,R,Drama
+461,Cloudy with a Chance of Meatballs,90.0,6.9,Phil Lord,"Christopher Miller, Anna Faris, Bill Hader, Bruce Campbell, James Caan",2009-09-18,100000000,236827677,30304648.0,PG,Adventure
+462,The Other Guys,107.0,6.6,Adam McKay,"Will Ferrell, Mark Wahlberg, Derek Jeter, Eva Mendes",2010-08-06,100000000,170936470,35543162.0,PG-13,Comedy
+464,The Wolf of Wall Street,180.0,8.2,Martin Scorsese,"Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey",2013-12-25,100000000,389918903,18410067.0,R,Black Comedy
+465,Epic,102.0,6.6,Chris Wedge,"Amanda Seyfried, Josh Hutcherson, Beyoncé, Colin Farrell",2013-05-24,100000000,262794441,33531068.0,PG,Adventure
+466,Eraser,115.0,6.2,Chuck Russell,"Arnold Schwarzenegger, Vanessa Williams, James Caan, James Coburn",1996-06-21,100000000,234400000,24566446.0,R,Action
+467,The Hunchback of Notre Dame,91.0,7.0,Gary Trousdale,"Kirk Wise, Demi Moore, Jason Alexander, Mary Kay Bergman, Corey Burton",1996-06-21,100000000,325500000,21037414.0,G,Adventure
+468,The Hunchback of Notre Dame,116.0,7.8,William Dieterle,"Charles Laughton, Maureen O'Hara, Cedric Hardwicke, Thomas Mitchell",1996-06-21,100000000,325500000,21037414.0,G,Adventure
+469,The Emperor's New Groove,78.0,7.4,Mark Dindal,"David Spade, John Goodman, Eartha Kitt, Patrick Warburton",2000-12-15,100000000,169630573,9812302.0,G,Adventure
+470,The Expendables 2,103.0,6.6,Simon West,"Sylvester Stallone, Liam Hemsworth, Randy Couture, Jean-Claude Van Damme",2012-08-15,100000000,311979256,28591370.0,R,Action
+471,Where the Wild Things Are,101.0,6.7,Spike Jonze,"Max Records, Catherine O'Hara, Forest Whitaker, Pepita Emmerichs",2009-10-16,100000000,99123656,32695407.0,PG,Adventure
+472,Eragon,104.0,5.1,Stefen Fangmeier,"Ed Speleers, Sienna Guillory, Jeremy Irons, John Malkovich",2006-12-15,100000000,249488115,23239907.0,PG,Adventure
+473,Hercules,93.0,7.3,Ron Clements,"John Musker, Tate Donovan, Susan Egan, James Woods, Barbara Barrie",2014-07-23,100000000,243388614,29800263.0,PG-13,Adventure
+474,Hercules,98.0,6.0,Brett Ratner,"Dwayne Johnson, John Hurt, Ian McShane, Joseph Fiennes",2014-07-23,100000000,243388614,29800263.0,PG-13,Adventure
+475,The Tourist,103.0,6.0,Florian Henckel von Donnersmarck,"Johnny Depp, Angelina Jolie, Paul Bettany, Timothy Dalton",2010-12-10,100000000,278731369,16472458.0,PG-13,Thriller/Suspense
+476,End of Days,122.0,5.8,Peter Hyams,"Arnold Schwarzenegger, Gabriel Byrne, Robin Tunney, Kevin Pollak",1999-11-24,100000000,212026975,20523595.0,R,Action
+477,Spies in Disguise,102.0,6.8,Nick Bruno,"Troy Quane, Rachel Brosnahan, Jarrett Bruno, Claire Crosby, Toru Uchikado",2019-12-25,100000000,165138481,13354798.0,PG,Adventure
+478,The Stepford Wives,93.0,5.3,Frank Oz,"Nicole Kidman, Bette Midler, Matthew Broderick, Glenn Close",2004-06-11,100000000,96150482,21406781.0,PG-13,Black Comedy
+479,The Stepford Wives,115.0,6.9,Bryan Forbes,"Katharine Ross, Paula Prentiss, Peter Masterson, Nanette Newman",2004-06-11,100000000,96150482,21406781.0,PG-13,Black Comedy
+481,Blood Diamond,143.0,8.0,Edward Zwick,"Leonardo DiCaprio, Djimon Hounsou, Jennifer Connelly, Kagiso Kuypers",2006-12-08,100000000,171377916,8648324.0,R,Action
+482,Midway,138.0,6.7,Roland Emmerich,"Ed Skrein, Patrick Wilson, Woody Harrelson, Luke Evans",2019-11-07,100000000,126829063,17897419.0,PG-13,Action
+483,Midway,132.0,6.8,Jack Smight,"Charlton Heston, Henry Fonda, James Coburn, Glenn Ford",2019-11-07,100000000,126829063,17897419.0,PG-13,Action
+484,Legend of the Guardians: The Owls of Ga'Hoole,97.0,6.9,Zack Snyder,"Jim Sturgess, Hugo Weaving, David Wenham, Emily Barclay",2010-09-24,100000000,139716717,16112211.0,PG,Adventure
+485,Land of the Lost,102.0,5.3,Brad Silberling,"Will Ferrell, Danny McBride, Anna Friel, Jorma Taccone",2009-06-05,100000000,69548641,18837350.0,PG-13,Comedy
+486,Peter Pan,113.0,6.8,P.J. Hogan,"Jeremy Sumpter, Jason Isaacs, Olivia Williams, Lynn Redgrave",2003-12-18,100000000,95255485,11139495.0,PG,Adventure
+487,Peter Pan,77.0,7.3,Clyde Geronimi,"Wilfred Jackson, Hamilton Luske, Jack Kinney, Bobby Driscoll, Kathryn Beaumont, Hans Conried, Bill Thompson",2003-12-18,100000000,95255485,11139495.0,PG,Adventure
+489,Catwoman,104.0,3.4,Pitof,"Halle Berry, Sharon Stone, Benjamin Bratt, Lambert Wilson",2004-07-23,100000000,82078046,16728411.0,PG-13,Action
+490,The Expendables 3,126.0,6.1,Patrick Hughes,"Sylvester Stallone, Jason Statham, Jet Li, Antonio Banderas",2014-08-14,100000000,209461378,15879645.0,PG-13,Action
+491,West Side Story,156.0,7.1,Steven Spielberg,"Ansel Elgort, Rachel Zegler, Ariana DeBose, David Alvarez",2021-12-08,100000000,75011257,10574618.0,PG-13,Musical
+492,West Side Story,153.0,7.6,Jerome Robbins,"Robert Wise, Natalie Wood, George Chakiris, Richard Beymer, Russ Tamblyn",2021-12-08,100000000,75011257,10574618.0,PG-13,Musical
+493,Treasure Planet,95.0,7.2,Ron Clements,"John Musker, Joseph Gordon-Levitt, Emma Thompson, Martin Short, Roscoe Lee Browne",2002-11-27,100000000,91800000,12083248.0,PG,Adventure
+495,Green Zone,115.0,6.8,Paul Greengrass,"Matt Damon, Jason Isaacs, Greg Kinnear, Igal Naor",2010-03-12,100000000,97523020,14309295.0,R,Drama
+496,Geostorm,109.0,5.3,Dean Devlin,"Gerard Butler, Jim Sturgess, Abbie Cornish, Alexandra Maria Lara",2017-10-13,100000000,220796009,13707376.0,PG-13,Thriller/Suspense
+497,Point Break,122.0,7.3,Kathryn Bigelow,"Patrick Swayze, Keanu Reeves, Gary Busey, Lori Petty",2015-12-02,100000000,126704591,9800252.0,PG-13,Action
+498,Point Break,114.0,5.3,Ericson Core,"Edgar Ramírez, Luke Bracey, Ray Winstone, Teresa Palmer",2015-12-02,100000000,126704591,9800252.0,PG-13,Action
+499,Cats,110.0,2.8,Tom Hooper,"James Corden, Judi Dench, Jason Derulo, Idris Elba",2019-12-17,100000000,75558925,6619870.0,PG,Musical
+500,In the Heart of the Sea,122.0,6.9,Ron Howard,"Chris Hemsworth, Cillian Murphy, Brendan Gleeson, Ben Whishaw",2015-11-26,100000000,89693309,11053366.0,PG-13,Adventure
+501,Transcendence,119.0,6.2,Wally Pfister,"Johnny Depp, Rebecca Hall, Morgan Freeman, Cillian Murphy",2014-04-18,100000000,103039258,10886386.0,PG-13,Thriller/Suspense
+502,Son of the Mask,94.0,2.3,Lawrence Guterman,"Jamie Kennedy, Traylor Howard, Alan Cumming, Liam Falconer",2005-02-18,100000000,59918422,7511675.0,PG,Adventure
+503,Mortal Engines,128.0,6.1,Christian Rivers,"Hera Hilmar, Robert Sheehan, Hugo Weaving, Jihae",2018-12-05,100000000,85480271,7559850.0,PG-13,Action
+504,Chaos Walking,109.0,5.7,Doug Liman,"Tom Holland, Daisy Ridley, Demián Bichir, David Oyelowo",2021-02-03,100000000,27075660,3775350.0,PG-13,Action
+505,The Last Duel,152.0,7.4,Ridley Scott,"Matt Damon, Adam Driver, Jodie Comer, Harriet Walter",2021-10-13,100000000,30055233,4759151.0,R,Drama
+510,The Peanuts Movie,88.0,7.0,Steve Martino,"Noah Schnapp, Bill Melendez, Hadley Belle Miller, Francesca Capaldi",2015-11-05,99000000,250091610,44213073.0,G,Adventure
+512,Robin Hood,140.0,6.6,Ridley Scott,"Russell Crowe, Cate Blanchett, Matthew Macfadyen, Max von Sydow",2018-11-21,99000000,85210012,36063385.0,PG-13,Action
+513,Robin Hood,116.0,5.3,Otto Bathurst,"Taron Egerton, Jamie Foxx, Ben Mendelsohn, Eve Hewson",2018-11-21,99000000,85210012,36063385.0,PG-13,Action
+514,Robin Hood,83.0,7.5,Wolfgang Reitherman,"David Hand, Brian Bedford, Phil Harris, Roger Miller, Peter Ustinov",2018-11-21,99000000,85210012,36063385.0,PG-13,Action
+515,The Mummy Returns,130.0,6.4,Stephen Sommers,"Brendan Fraser, Rachel Weisz, John Hannah, Arnold Vosloo",2001-05-04,98000000,435040395,68139035.0,PG-13,Adventure
+517,Gangs of New York,167.0,7.5,Martin Scorsese,"Leonardo DiCaprio, Cameron Diaz, Daniel Day-Lewis, Jim Broadbent",2002-12-20,97000000,183124621,9496870.0,R,Drama
+518,Alien: Covenant,122.0,6.4,Ridley Scott,"Michael Fassbender, Katherine Waterston, Billy Crudup, Danny McBride",2017-05-04,97000000,238521247,36160621.0,R,Horror
+519,Cinderella,112.0,4.4,Kay Cannon,"Camila Cabello, Billy Porter, Nicholas Galitzine, Idina Menzel",2015-03-06,95000000,542351353,67877361.0,PG,Drama
+520,Cinderella,105.0,6.9,Kenneth Branagh,"Lily James, Cate Blanchett, Richard Madden, Helena Bonham Carter",2015-03-06,95000000,542351353,67877361.0,PG,Drama
+521,Cinderella,74.0,7.3,Clyde Geronimi,"Wilfred Jackson, Hamilton Luske, Ilene Woods, James MacDonald, Eleanor Audley, Verna Felton",2015-03-06,95000000,542351353,67877361.0,PG,Drama
+522,Ice Age: Continental Drift,88.0,6.5,Steve Martino,"Michael Thurmeier, Ray Romano, Denis Leary, John Leguizamo, Aziz Ansari",2012-06-27,95000000,879765137,46629259.0,PG,Adventure
+523,Black Hawk Down,144.0,7.7,Ridley Scott,"Josh Hartnett, Ewan McGregor, Tom Sizemore, Eric Bana",2001-12-28,95000000,159691085,179823.0,R,Action
+524,Sex and the City 2,146.0,4.5,Michael Patrick King,"Sarah Jessica Parker, Kim Cattrall, Kristin Davis, Cynthia Nixon",2010-05-27,95000000,294680778,31001870.0,R,Comedy
+525,Percy Jackson & the Olympians: The Lightning Thief,118.0,5.9,Chris Columbus,"Logan Lerman, Kevin McKidd, Steve Coogan, Brandon T. Jackson",2010-02-12,95000000,223050874,31236067.0,PG,Adventure
+526,The Campaign,85.0,6.1,Jay Roach,"Will Ferrell, Zach Galifianakis, Jason Sudeikis, Dylan McDermott",2012-08-10,95000000,104907746,26588460.0,R,Comedy
+527,Unstoppable,98.0,6.8,Tony Scott,"Denzel Washington, Chris Pine, Rosario Dawson, Ethan Suplee",2010-11-12,95000000,165720921,22688457.0,PG-13,Action
+529,The Road to El Dorado,89.0,6.9,Bibo Bergeron,"Don Paul, Jeffrey Katzenberg, Kevin Kline, Kenneth Branagh, Rosie Perez, Armand Assante",2000-03-31,95000000,65700000,12846652.0,PG,Adventure
+530,The Lovely Bones,135.0,6.6,Peter Jackson,"Rachel Weisz, Mark Wahlberg, Saoirse Ronan, Susan Sarandon",2009-12-11,95000000,94894448,116616.0,PG-13,Drama
+531,Ben-Hur,212.0,8.1,William Wyler,"Charlton Heston, Jack Hawkins, Stephen Boyd, Haya Harareet",2016-06-30,95000000,91669648,11203815.0,PG-13,Adventure
+532,Ben-Hur,123.0,5.7,Timur Bekmambetov,"Jack Huston, Toby Kebbell, Rodrigo Santoro, Nazanin Boniadi",2016-06-30,95000000,91669648,11203815.0,PG-13,Adventure
+533,Seventh Son,102.0,5.5,Sergei Bodrov,"Ben Barnes, Julianne Moore, Jeff Bridges, Alicia Vikander",2014-12-19,95000000,108874967,7217640.0,PG-13,Adventure
+534,Finding Nemo,100.0,8.2,Andrew Stanton,"Lee Unkrich, Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe",2003-05-30,94000000,936094852,70251710.0,G,Adventure
+535,The Lord of the Rings: The Return of the King,201.0,9.0,Peter Jackson,"Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom",2003-12-17,94000000,1120214046,72629713.0,PG-13,Adventure
+536,The Lord of the Rings: The Two Towers,179.0,8.8,Peter Jackson,"Elijah Wood, Ian McKellen, Viggo Mortensen, Orlando Bloom",2002-12-18,94000000,919148764,62007528.0,PG-13,Adventure
+537,Lara Croft: Tomb Raider,100.0,5.8,Simon West,"Angelina Jolie, Jon Voight, Iain Glen, Noah Taylor",2001-06-15,94000000,273330185,47735743.0,PG-13,Adventure
+538,Kingsman: The Secret Service,129.0,7.7,Matthew Vaughn,"Colin Firth, Taron Egerton, Samuel L. Jackson, Michael Caine",2015-01-29,94000000,404561724,36206331.0,R,Action
+539,The Lord of the Rings: The Fellowship of the Ring,178.0,8.9,Peter Jackson,"Elijah Wood, Ian McKellen, Orlando Bloom, Sean Bean",2001-12-19,93000000,891216824,47211490.0,PG-13,Adventure
+540,Jurassic Park III,92.0,5.9,Joe Johnston,"Sam Neill, William H. Macy, Téa Leoni, Alessandro Nivola",2001-07-18,93000000,365900000,50771645.0,PG-13,Action
+541,Rise of the Planet of the Apes,105.0,7.6,Rupert Wyatt,"James Franco, Andy Serkis, Freida Pinto, Karin Konoval",2011-08-05,93000000,470986200,54806191.0,PG-13,Adventure
+542,The Spiderwick Chronicles,96.0,6.5,Mark Waters,"Freddie Highmore, Sarah Bolger, David Strathairn, Mary-Louise Parker",2008-02-14,92500000,162839667,19004058.0,PG,Adventure
+543,The Incredibles,115.0,8.0,Brad Bird,"Craig T. Nelson, Samuel L. Jackson, Holly Hunter, Jason Lee",2004-10-22,92000000,631441092,70467623.0,PG,Adventure
+544,A Good Day to Die Hard,98.0,5.2,John Moore,"Bruce Willis, Jai Courtney, Sebastian Koch, Mary Elizabeth Winstead",2013-02-06,92000000,304249198,24834845.0,R,Action
+545,The Alamo,162.0,6.8,John Wayne,"John Wayne, Richard Widmark, Laurence Harvey, Frankie Avalon",2004-04-09,92000000,23911362,9124701.0,PG-13,Western
+546,The Alamo,137.0,6.0,John Lee Hancock,"Dennis Quaid, Billy Bob Thornton, Emilio Echevarría, Jason Patric",2004-04-09,92000000,23911362,9124701.0,PG-13,Western
+547,Cutthroat Island,124.0,5.7,Renny Harlin,"Geena Davis, Matthew Modine, Frank Langella, Maury Chaykin",1995-12-22,92000000,18517322,2371415.0,PG-13,Adventure
+548,The Secret Life of Walter Mitty,114.0,7.3,Ben Stiller,"Ben Stiller, Kristen Wiig, Jon Daly, Kathryn Hahn",2013-12-19,91000000,187861183,12765508.0,PG,Adventure
