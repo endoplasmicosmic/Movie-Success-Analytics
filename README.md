@@ -1,4 +1,4 @@
-# Project 1
+# Project 1: Movie Profitability Analysis
 
 ## Project Title: Movie Profitability Analysis
 
@@ -77,21 +77,45 @@ This dataset will include data surrounding:
 - Release Date
 - Duration
 - Rating
+- Cast (Actor information)
 
 ### Rough Breakdown on Tasks
 - **Data cleaning:** Jackson
 - **Data merging:** Finn
 - **Data visualization:**
-  - Finn: Profit Margin vs. IMDB Viewer Rating
-  - Finn: Release Date vs. Opening Weekend Sales
-  - Jackson: Opening Weekend Sales vs. Worldwide Sales
-  - Jackson: Production Cost vs. Worldwide Sales
-  - John: Duration vs. IMDB Viewer Rating
-  - John: Duration vs. Worldwide Sales
+  - Finn: Profit Margin vs. IMDB Viewer Rating, Release Date vs. Opening Weekend Sales
+  - Jackson: Opening Weekend Sales vs. Worldwide Sales, Production Cost vs. Worldwide Sales
+  - John: Duration vs. IMDB Viewer Rating, Duration vs. Worldwide Sales
   - Parisha: Profit Margin vs. Genre
-  - Sanem: Actor vs. Worldwide Sales
-  - Sanem: MPAA Rating vs. Worldwide Sales
+  - Sanem: Actor vs. Worldwide Sales, MPAA Rating vs. Worldwide Sales
 - **Data Analysis/Summary:** Parisha, Finn
+
+### Individual Contributions
+- **Sanem:** 
+  - MPAA Rating vs. Worldwide Sales
+  - Actor vs. Worldwide Sales
+- **Finn:** 
+  - Profit Margin vs. IMDB Viewer Rating
+  - Release Date vs. Opening Weekend Sales
+- **Jackson:** 
+  - Production Cost vs. Worldwide Sales
+  - Opening Weekend Sales vs. Worldwide Sales
+- **Parisha:** 
+  - Profit Margin vs. Genre
+- **John:** 
+  - Duration vs. Worldwide Sales
+  - Duration vs. IMDB Viewer Rating
+
+### Comprehensive Notebook
+The `movie.ipynb` file consolidates the work of the entire team, integrating all individual analyses into a single comprehensive notebook. The individual contributions are compiled from the following notebooks:
+- `movie_sanem.ipynb`: MPAA Rating vs. Worldwide Sales, Actor vs. Worldwide Sales
+- `movie_finn.ipynb`: Profit Margin vs. IMDB Viewer Rating, Release Date vs. Opening Weekend Sales
+- `movie_jackson.ipynb`: Production Cost vs. Worldwide Sales, Opening Weekend Sales vs. Worldwide Sales
+- `movie_parisha.ipynb`: Profit Margin vs. Genre
+- `movie_john.ipynb`: Duration vs. Worldwide Sales, Duration vs. IMDB Viewer Rating
+
+### Visualizations
+All visualizations generated from the analysis can be found in the `movie_analysis_visualizations` directory. This directory contains all the graphs and charts created during the analysis phase.
 
 ### Resources
 - [NumPy Standard Deviation](https://numpy.org/doc/stable/reference/generated/numpy.std.html)
