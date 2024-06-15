@@ -2,6 +2,12 @@
 
 ## Project Title: Movie Profitability Analysis
 
+### Due Dates:
+- **Jun 11**: Cleaned data file shared
+- **Jun 13**: Visuals w/ Stats Tests completed
+- **Jun 15**: Analysis completed
+- **Jun 16**: Team review
+
 ### Team Members
 - Finn
 - Jackson
@@ -92,3 +98,5 @@ This dataset will include data surrounding:
 - [SciPy Tutorial](https://docs.scipy.org/doc/scipy/tutorial/index.html)
 - [Pandas DataFrame Reference](https://pandas.pydata.org/docs/reference/frame.html)
 - [Matplotlib Pyplot Plot](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html)
+- [IMDB Movies Dataset](https://www.kaggle.com/datasets/amanbarthwal/imdb-movies-data)
+- [Top 500 Movies by Production Budget](https://www.kaggle.com/datasets/mitchellharrison/top-500-movies-budget?resource=download)
