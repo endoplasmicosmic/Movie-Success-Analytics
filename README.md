@@ -109,3 +109,4 @@ All visualizations generated from the analysis can be found in the `movie_analys
 - [IMDB Movies Dataset](https://www.kaggle.com/datasets/amanbarthwal/imdb-movies-data)
 - [Top 500 Movies by Production Budget](https://www.kaggle.com/datasets/mitchellharrison/top-500-movies-budget?resource=download)
 - [F-Critical Value](https://www.stat.purdue.edu/~lfindsen/stat503/F_alpha_05.pdf)
+- [T-Critical Value](https://www.me.psu.edu/casestudy/Statistics/Ttable.htm)
