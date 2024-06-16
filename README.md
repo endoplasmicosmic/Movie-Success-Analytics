@@ -1,6 +1,6 @@
-# Project 1: Movie Profitability Analysis
+# Project 1: Movie Success Analysis
 
-## Project Title: Movie Profitability Analysis
+## Project Title: Movie Success Analysis
 
 ### Due Dates:
 - **Jun 11**: Cleaned data file shared
