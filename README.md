@@ -20,17 +20,17 @@ We are aiming to answer questions pertaining to what some may call a "dying indu
 
 ### Our Hypotheses
 - High production cost results in higher worldwide sales
-- Action movies have a lower profit margin because they cost more
+- There is a significant difference between movie genres when it comes to profitability 
 - There's a strong correlation between opening weekend sales and worldwide sales
 - Summer movies have higher opening weekend sales
-- G & PG-rated movies have higher worldwide sales compared to PG-13/R-rated movies
+- MPAA Rating significantly impacts worldwide sales 
 
 ### Our Null Hypotheses
-- Production Cost does not have an impact on worldwide sales
-- Action movies do not have lower profit margins
+- Higher production costs do not result in higher or lower worldwide sales
+- There is no significant difference in profitability between movie genres
 - There is no correlation between opening weekend sales and worldwide sales
-- Summer movies do not have higher opening weekend sales
-- G & PG-rated movies do not have higher worldwide sales compared to PG-13/R-rated movies
+- Summer movies do not have higher opening weekend sales compared to non-summer movies
+- There is no difference in worldwide sales when it comes to a movie’s MPAA Rating
 
 ### Research Questions to Answer
 1. Production Cost vs. Worldwide Sales
@@ -60,7 +60,6 @@ We are aiming to answer questions pertaining to what some may call a "dying indu
    - Stats Type: ANOVA
 9. Actor vs. Worldwide Sales
    - Graph Type: Bar Plot
-   - Stats Type: ANOVA
 
 ### Datasets to Be Used
 #### ["Top 500 Movies by Production Budget"](https://www.kaggle.com/datasets/mitchellharrison/top-500-movies-budget)
@@ -89,25 +88,10 @@ This dataset will include data surrounding:
   - Parisha: Profit Margin vs. Genre
   - Sanem: Actor vs. Worldwide Sales, MPAA Rating vs. Worldwide Sales
 - **Data Analysis/Summary:** Parisha, Finn
-
-### Individual Contributions
-- **Sanem:** 
-  - MPAA Rating vs. Worldwide Sales
-  - Actor vs. Worldwide Sales
-- **Finn:** 
-  - Profit Margin vs. IMDB Viewer Rating
-  - Release Date vs. Opening Weekend Sales
-- **Jackson:** 
-  - Production Cost vs. Worldwide Sales
-  - Opening Weekend Sales vs. Worldwide Sales
-- **Parisha:** 
-  - Profit Margin vs. Genre
-- **John:** 
-  - Duration vs. Worldwide Sales
-  - Duration vs. IMDB Viewer Rating
+- **Presentation:** Jackson, Parisa, Finn
 
 ### Comprehensive Notebook
-The `movie.ipynb` file consolidates the work of the entire team, integrating all individual analyses into a single comprehensive notebook. The individual contributions are compiled from the following notebooks:
+The `movie_FINAL.ipynb` file consolidates the work of the entire team, integrating all individual analyses into a single comprehensive notebook. The individual contributions are compiled from the following notebooks:
 - `movie_sanem.ipynb`: MPAA Rating vs. Worldwide Sales, Actor vs. Worldwide Sales
 - `movie_finn.ipynb`: Profit Margin vs. IMDB Viewer Rating, Release Date vs. Opening Weekend Sales
 - `movie_jackson.ipynb`: Production Cost vs. Worldwide Sales, Opening Weekend Sales vs. Worldwide Sales
@@ -124,3 +108,4 @@ All visualizations generated from the analysis can be found in the `movie_analys
 - [Matplotlib Pyplot Plot](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html)
 - [IMDB Movies Dataset](https://www.kaggle.com/datasets/amanbarthwal/imdb-movies-data)
 - [Top 500 Movies by Production Budget](https://www.kaggle.com/datasets/mitchellharrison/top-500-movies-budget?resource=download)
+- [F-Critical Value](https://www.stat.purdue.edu/~lfindsen/stat503/F_alpha_05.pdf)
