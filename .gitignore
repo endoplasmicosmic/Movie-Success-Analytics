@@ -1,5 +1,7 @@
-# Adding .virtual_documents file.
+# Adding .virtual_documents and ~$oject1_Analysis.docx file.
 .virtual_documents
+
+~$oject1_Analysis.docx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
