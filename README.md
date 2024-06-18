@@ -96,7 +96,7 @@ We leveraged Python to create scatter plots, box plots, and a bar graph to compl
 #### Production Cost vs. Worldwide Sales
 Our first hypothesis is that higher production costs would increase worldwide sales. We argue that the more money a production company puts into a movie, the higher the return they will see (thinking of action movies like The Avengers or Barbie). The null hypothesis in this instance would be that higher production costs do not result In higher or lower worldwide sales.
 
-![Production Cost vs. Worldwide Sales](../Project1_MovieSuccessAnalysis/movie_analysis_visualizations/costvsales.png)
+![Production Cost vs. Worldwide Sales](movie_analysis_visualizations/costvsales.png)
 
 An r-value of 0.55 between production cost and worldwide sales indicates a moderate positive correlation. This suggests that worldwide sales also tend to increase as production costs increase, but the relationship is not extremely strong. 
 
