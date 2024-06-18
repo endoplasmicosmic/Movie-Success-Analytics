@@ -1,6 +1,6 @@
-# Adding .virtual_documents and ~$oject1_Analysis.docx file.
+# Adding .virtual_documents and ~$oject1_Analysis.docx also .DS_Store file.
 .virtual_documents
-
+.DS_Store
 ~$oject1_Analysis.docx
 
 # Byte-compiled / optimized / DLL files
